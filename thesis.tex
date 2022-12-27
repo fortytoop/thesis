@@ -1,0 +1,49 @@
+\documentclass[a4paper,12pt,twoside]{report}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=3cm]{geometry}
+\usepackage[version=4]{mhchem}
+\usepackage{chemfig}
+\usepackage[numbers]{natbib}
+\usepackage{notoccite}
+
+\include{thesis.preamble}
+
+
+\begin{document}
+
+\title{\LARGE {\bf Recycling inert gases for plasma-assisted carbon dioxide splitting using a split-ring resonator}\\
+ \vspace*{6mm}
+}
+
+\author{Prateep Ganesh Kasinathan}
+\submitdate{1$^{\hbox{st}}$ December 2022}
+
+\normallinespacing
+\maketitle
+
+\preface
+%\input{abstract/abstract}
+
+\body
+\input{chapter_1/chapter_1.tex}
+\input{chapter_2/chapter_2.tex}
+\input{chapter_3/chapter_3.tex}
+\input{chapter_4/chapter_4.tex}
+\input{chapter_5/chapter_5.tex}
+\input{chapter_6/chapter_6.tex}
+\input{chapter_7/chapter_7.tex}
+
+% body of thesis comes here
+
+%\input{conclusion/conclusion}
+
+\appendix
+% appendices come here
+\input{particle_in_cell/particle_in_cell}
+\input{xoopic/xoopic}
+
+
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliographystyle{ieeetr}
+\bibliography{bibliography/bibliography}
+
+\end{document}
