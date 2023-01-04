@@ -1,0 +1,37 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Global greenhouse gas emissions by sector \cite {ritchie_roser_2020}.\relax }}{2}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Paschen curve for Helium, Neon, Argon, Hydrogen, and Nitrogen gases \cite {Lieberman2005}.\relax }}{6}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Circuit diagram with a source voltage ($V_s$) and variable resistor ($R$) to control the current through a discharge region ($C$ to $A$) \cite {Gudmundsson2017}.\relax }}{7}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Depiction of the current-voltage relationship across three discharge regions \cite {Gallo1975}.\relax }}{8}% 
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Schematic highlighting the regions present in a DC glow discharge \cite {Bogaerts2002}. The cathode is on the left and the grounded anode is on the right. (CDS is the cathode dark space, NG is the negative glow, and AZ is the anode dark space.\relax }}{9}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Paschen curve for AC discharge across various frequencies \cite {Pim1949}.\relax }}{11}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gibbs free energy of formation for different chemicals based on data from the NIST database. \cite {jiang_xiao_kuznetsov_edwards_2010}\relax }}{13}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Thermal conversion and energy efficiency of CO$_2$ splitting as a function of temperature. \cite {Snoeckx2017}\relax }}{13}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Schematic of microwave reactors for CO$_2$ splitting. \cite {Snoeckx2017}\relax }}{15}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Schematic (left) and photo (right) of SRR \cite {Dextre2017}.\relax }}{17}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces A comparison of SSR with and without hole in gap.\relax }}{20}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Time series plot of number of electrons across different discharge gaps.\relax }}{22}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces PCB design of SSR in KiCad.\relax }}{26}% 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Process flow of PIC simulations.\relax }}{32}% 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Illustration of forward-difference and central-difference form \cite {gisbert_piovella_2020}.\relax }}{34}% 
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Visualisation of velocity rotation from the Boris algorithm \cite {Birdsall2004}.\relax }}{35}% 
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Interpolation from the grid to the particles \cite {Ha2019}.\relax }}{36}% 
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Illustration of ADI method \cite {Wermelinger}.\relax }}{39}% 
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Addition of null collision to produce a constant collision frequency across all energies \cite {Vahedi1995}.\relax }}{42}% 
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Illustration of circuit boundary.\relax }}{47}% 
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Voltage-current relationship of circuit boundary.\relax }}{48}% 
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Illustration of a circuit boundary along a fixed grid.\relax }}{49}% 
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Illustration of test case for Circuit boundary without particles.\relax }}{54}% 
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Comparison between the analytical solution and XOOPIC, where $\Delta t = 10$ ps.\relax }}{55}% 
+\contentsline {figure}{\numberline {B.6}{\ignorespaces Comparison between the analytical solution and XOOPIC, where $\Delta t = 1$ ns.\relax }}{55}% 
+\contentsline {figure}{\numberline {B.7}{\ignorespaces Comparison of the error from XOOPIC when $\Delta t = 10$ ps and $\Delta t = 1$ ns.\relax }}{56}% 
+\contentsline {figure}{\numberline {B.8}{\ignorespaces Illustration of test case for Circuit boundary without particles.\relax }}{56}% 
+\contentsline {figure}{\numberline {B.9}{\ignorespaces Illustration of test case for Circuit boundary without particles.\relax }}{59}% 
