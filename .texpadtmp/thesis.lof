@@ -3,35 +3,52 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Paschen curve for Helium, Neon, Argon, Hydrogen, and Nitrogen gases \cite {Lieberman2005}.\relax }}{6}% 
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Circuit diagram with a source voltage ($V_s$) and variable resistor ($R$) to control the current through a discharge region ($C$ to $A$) \cite {Gudmundsson2017}.\relax }}{7}% 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Depiction of the current-voltage relationship across three discharge regions \cite {Gallo1975}.\relax }}{8}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Depiction of the current-voltage relationship across three discharge regions \cite {Gallo1975}.\relax }}{7}% 
 \contentsline {figure}{\numberline {2.4}{\ignorespaces Schematic highlighting the regions present in a DC glow discharge \cite {Bogaerts2002}. The cathode is on the left and the grounded anode is on the right. (CDS is the cathode dark space, NG is the negative glow, and AZ is the anode dark space.\relax }}{9}% 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Paschen curve for AC discharge across various frequencies \cite {Pim1949}.\relax }}{11}% 
+\contentsline {figure}{\numberline {2.5}{\ignorespaces A DC plasma from molecular emission detector on chip \cite {Eijkel1999}.\relax }}{10}% 
+\contentsline {figure}{\numberline {2.6}{\ignorespaces A simplified illustration of a hollow cathode design \cite {Becker2006}.\relax }}{11}% 
+\contentsline {figure}{\numberline {2.7}{\ignorespaces A comparison of the voltage vs current curve for a hollow cathode geometry (solid line) and a typical parallel plate geometry (dashed line)\cite {watson_gewartewski_1965}.\relax }}{12}% 
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Paschen curve for AC discharge across various frequencies \cite {Pim1949}.\relax }}{14}% 
+\contentsline {figure}{\numberline {2.9}{\ignorespaces Illustration of a capacitively coupled plasma (CCP) experimental setup \cite {Ohtsu2018}.\relax }}{15}% 
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Cycle averaged electron temperature in a CCP reactor \cite {esgee_tech_2017}.\relax }}{15}% 
+\contentsline {figure}{\numberline {2.11}{\ignorespaces Schematic of inductively coupled plasma (ICP) torches \cite {Yu2021}.\relax }}{16}% 
+\contentsline {figure}{\numberline {2.12}{\ignorespaces Comparison of plasma parameters between CCP and ICP reactor \cite {Sakamoto2009ComparisonOP}. The two left most graphs (a, c) are the results from a CCP reactor, while the two right most graphs (b, d) are the results of the ICP reactor. The top two graphs (a, b) show the radial distribution of electron temperatures for a CCP and ICP reactor respectively. The bottom two graphs (c, d) show the distribution of electron density for a CCP and ICP reactor respectively.\relax }}{17}% 
+\contentsline {figure}{\numberline {2.13}{\ignorespaces Examples of different Dielectric Barrier Discharge (DBD) designs \cite {Kogelschatz2003}. The left most (a) and right most (c) drawings show at least one dielectric on the electrodes, while the middle (b) illustrates a dielectric in the discharge gap, but not touching the electrodes.\relax }}{18}% 
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Schematic of a surface wave discharge plasma source \cite {Toyoda2020}.\relax }}{19}% 
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Schematic of an electron cyclotron resonance plasma source \cite {Toyoda2020}.\relax }}{19}% 
+\contentsline {figure}{\numberline {2.16}{\ignorespaces Examples of different types of microstrip plasma sources \cite {Iza2008}. The top three designs (a, b, c) are linear microstrip resonators, while (d) shows a microstrip split-ring resonator, and (e) illustrates a coaxial resonator.\relax }}{20}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Gibbs free energy of formation for different chemicals based on data from the NIST database. \cite {jiang_xiao_kuznetsov_edwards_2010}\relax }}{13}% 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Thermal conversion and energy efficiency of CO$_2$ splitting as a function of temperature. \cite {Snoeckx2017}\relax }}{13}% 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Schematic of microwave reactors for CO$_2$ splitting. \cite {Snoeckx2017}\relax }}{15}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Gibbs free energy of formation for different chemicals based on data from the NIST database. \cite {jiang_xiao_kuznetsov_edwards_2010}\relax }}{22}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Thermal conversion and energy efficiency of CO$_2$ splitting as a function of temperature. \cite {Snoeckx2017}\relax }}{22}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Schematic of microwave reactors for CO$_2$ splitting. \cite {Snoeckx2017}\relax }}{24}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Schematic (left) and photo (right) of SRR \cite {Dextre2017}.\relax }}{17}% 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces A comparison of SSR with and without hole in gap.\relax }}{20}% 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Time series plot of number of electrons across different discharge gaps.\relax }}{22}% 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces PCB design of SSR in KiCad.\relax }}{26}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Schematic (left) and photo (right) of SRR \cite {Dextre2017}.\relax }}{27}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces A cross section comparison of SRR simulation domain without a hole (a) and with hole (b) in gap.\relax }}{30}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Time series plot of number of electrons across different discharge gaps.\relax }}{32}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces PCB schematic of SRR panels in the KiCad software suite.\relax }}{36}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip SRR gap designs with multiple holes (a, c) versus single holes (b, d). The designs in the lower two subfigures (c, d) have the presence of `finger-like' copper pours next to the holes.\relax }}{37}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Reflection coefficient (S$_{11}$) of SRR in dB.\relax }}{39}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Schematic of experimental setup.\relax }}{40}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Photograph of plasma discharge in the gap of the SRR.\relax }}{41}% 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Reflection power of SRR when connected to the setup in mW.\relax }}{42}% 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Ignition power of SSR, in mW, across a pressure range of 5 Torr to 850 Torr.\relax }}{43}% 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Process flow of PIC simulations.\relax }}{32}% 
-\contentsline {figure}{\numberline {A.2}{\ignorespaces Illustration of forward-difference and central-difference form \cite {gisbert_piovella_2020}.\relax }}{34}% 
-\contentsline {figure}{\numberline {A.3}{\ignorespaces Visualisation of velocity rotation from the Boris algorithm \cite {Birdsall2004}.\relax }}{35}% 
-\contentsline {figure}{\numberline {A.4}{\ignorespaces Interpolation from the grid to the particles \cite {Ha2019}.\relax }}{36}% 
-\contentsline {figure}{\numberline {A.5}{\ignorespaces Illustration of ADI method \cite {Wermelinger}.\relax }}{39}% 
-\contentsline {figure}{\numberline {A.6}{\ignorespaces Addition of null collision to produce a constant collision frequency across all energies \cite {Vahedi1995}.\relax }}{42}% 
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Process flow of PIC simulations.\relax }}{49}% 
+\contentsline {figure}{\numberline {A.2}{\ignorespaces Illustration of forward-difference and central-difference form \cite {gisbert_piovella_2020}.\relax }}{51}% 
+\contentsline {figure}{\numberline {A.3}{\ignorespaces Visualisation of velocity rotation from the Boris algorithm \cite {Birdsall2004}.\relax }}{52}% 
+\contentsline {figure}{\numberline {A.4}{\ignorespaces Interpolation from the grid to the particles \cite {Ha2019}.\relax }}{53}% 
+\contentsline {figure}{\numberline {A.5}{\ignorespaces Illustration of ADI method \cite {Wermelinger}.\relax }}{56}% 
+\contentsline {figure}{\numberline {A.6}{\ignorespaces Addition of null collision to produce a constant collision frequency across all energies \cite {Vahedi1995}.\relax }}{59}% 
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Illustration of circuit boundary.\relax }}{47}% 
-\contentsline {figure}{\numberline {B.2}{\ignorespaces Voltage-current relationship of circuit boundary.\relax }}{48}% 
-\contentsline {figure}{\numberline {B.3}{\ignorespaces Illustration of a circuit boundary along a fixed grid.\relax }}{49}% 
-\contentsline {figure}{\numberline {B.4}{\ignorespaces Illustration of test case for Circuit boundary without particles.\relax }}{54}% 
-\contentsline {figure}{\numberline {B.5}{\ignorespaces Comparison between the analytical solution and XOOPIC, where $\Delta t = 10$ ps.\relax }}{55}% 
-\contentsline {figure}{\numberline {B.6}{\ignorespaces Comparison between the analytical solution and XOOPIC, where $\Delta t = 1$ ns.\relax }}{55}% 
-\contentsline {figure}{\numberline {B.7}{\ignorespaces Comparison of the error from XOOPIC when $\Delta t = 10$ ps and $\Delta t = 1$ ns.\relax }}{56}% 
-\contentsline {figure}{\numberline {B.8}{\ignorespaces Illustration of test case for Circuit boundary without particles.\relax }}{56}% 
-\contentsline {figure}{\numberline {B.9}{\ignorespaces Illustration of test case for Circuit boundary without particles.\relax }}{59}% 
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Illustration of circuit boundary.\relax }}{64}% 
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Voltage-current relationship of circuit boundary.\relax }}{65}% 
+\contentsline {figure}{\numberline {B.3}{\ignorespaces Illustration of a circuit boundary along a fixed grid.\relax }}{66}% 
+\contentsline {figure}{\numberline {B.4}{\ignorespaces Illustration of test case for Circuit boundary without particles.\relax }}{71}% 
+\contentsline {figure}{\numberline {B.5}{\ignorespaces Comparison between the analytical solution and XOOPIC, where $\Delta t = 10$ ps.\relax }}{72}% 
+\contentsline {figure}{\numberline {B.6}{\ignorespaces Comparison between the analytical solution and XOOPIC, where $\Delta t = 1$ ns.\relax }}{72}% 
+\contentsline {figure}{\numberline {B.7}{\ignorespaces Comparison of the error from XOOPIC when $\Delta t = 10$ ps and $\Delta t = 1$ ns.\relax }}{73}% 
+\contentsline {figure}{\numberline {B.8}{\ignorespaces Illustration of test case for Circuit boundary without particles.\relax }}{73}% 
+\contentsline {figure}{\numberline {B.9}{\ignorespaces Illustration of test case for Circuit boundary without particles.\relax }}{76}% 

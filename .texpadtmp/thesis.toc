@@ -2,40 +2,50 @@
 \contentsline {section}{\numberline {1.1}Motivation}{1}% 
 \contentsline {section}{\numberline {1.2}Novelty}{2}% 
 \contentsline {chapter}{\numberline {2}Plasma Overview}{4}% 
-\contentsline {section}{\numberline {2.1}Plasma Discharge}{4}% 
-\contentsline {subsection}{\numberline {2.1.1}Paschen's Law}{5}% 
-\contentsline {subsection}{\numberline {2.1.2}DC Discharge}{7}% 
-\contentsline {subsection}{\numberline {2.1.3}AC Discharge}{10}% 
-\contentsline {chapter}{\numberline {3}Carbon Dioxide Splitting}{12}% 
-\contentsline {section}{\numberline {3.1}Traditional Process}{12}% 
-\contentsline {section}{\numberline {3.2}Plasma-assisted $CO_2$ Splitting}{15}% 
-\contentsline {chapter}{\numberline {4}Split Ring Resonator}{17}% 
-\contentsline {section}{\numberline {4.1}Overview}{18}% 
-\contentsline {section}{\numberline {4.2}Production}{19}% 
-\contentsline {subsection}{\numberline {4.2.1}Simulations}{19}% 
-\contentsline {subsection}{\numberline {4.2.2}Design}{24}% 
-\contentsline {section}{\numberline {4.3}Testing}{25}% 
-\contentsline {chapter}{\numberline {5}Epoxidation Process}{28}% 
-\contentsline {chapter}{\numberline {6}Gas recirculation}{29}% 
-\contentsline {chapter}{\numberline {7}Conclusion}{30}% 
-\contentsline {chapter}{\numberline {A}Particle-in-Cell Simulations}{31}% 
-\contentsline {section}{\numberline {A.1}Particle Mover}{33}% 
-\contentsline {section}{\numberline {A.2}Charge and Current Deposition}{36}% 
-\contentsline {section}{\numberline {A.3}Field Solver}{37}% 
-\contentsline {section}{\numberline {A.4}Field Interpolation}{40}% 
-\contentsline {section}{\numberline {A.5}Monte-Carlo Collisions}{41}% 
-\contentsline {chapter}{\numberline {B}XOOPIC}{43}% 
-\contentsline {section}{\numberline {B.1}Overview}{43}% 
-\contentsline {subsection}{\numberline {B.1.1}Remote Server}{44}% 
-\contentsline {subsection}{\numberline {B.1.2}Input Files}{45}% 
-\contentsline {section}{\numberline {B.2}Improvements}{46}% 
-\contentsline {subsection}{\numberline {B.2.1}Motivation}{46}% 
-\contentsline {subsection}{\numberline {B.2.2}Methodology}{48}% 
-\contentsline {subsubsection}{General Solution}{48}% 
-\contentsline {subsubsection}{Cartesian Geometry}{52}% 
-\contentsline {subsubsection}{Cylindrical Geometry}{53}% 
-\contentsline {subsection}{\numberline {B.2.3}Validation}{53}% 
-\contentsline {subsubsection}{Test Case without Particles}{54}% 
-\contentsline {subsubsection}{Test Case with Particles}{56}% 
-\contentsline {subsection}{\numberline {B.2.4}Future Work}{59}% 
-\contentsline {chapter}{Bibliography}{59}% 
+\contentsline {section}{\numberline {2.1}Paschen's Law}{4}% 
+\contentsline {section}{\numberline {2.2}DC Discharge}{6}% 
+\contentsline {subsection}{\numberline {2.2.1}DC Discharge Sources}{9}% 
+\contentsline {subsubsection}{Parallel Plate Designs}{9}% 
+\contentsline {subsubsection}{Hollow Cathode Designs}{10}% 
+\contentsline {section}{\numberline {2.3}AC Discharge}{12}% 
+\contentsline {subsection}{\numberline {2.3.1}AC Discharge Sources}{14}% 
+\contentsline {subsubsection}{Capacitively Coupled Plasma Designs}{14}% 
+\contentsline {subsubsection}{Inductively Coupled Plasma Designs}{16}% 
+\contentsline {subsubsection}{Dielectric Barrier Discharge Designs}{18}% 
+\contentsline {subsubsection}{Microwave Discharge Designs}{19}% 
+\contentsline {chapter}{\numberline {3}Carbon Dioxide Splitting}{21}% 
+\contentsline {section}{\numberline {3.1}Traditional Process}{21}% 
+\contentsline {section}{\numberline {3.2}Plasma-assisted $CO_2$ Splitting}{24}% 
+\contentsline {chapter}{\numberline {4}Split Ring Resonator}{26}% 
+\contentsline {section}{\numberline {4.1}Overview}{27}% 
+\contentsline {section}{\numberline {4.2}Production}{29}% 
+\contentsline {subsection}{\numberline {4.2.1}Simulations}{29}% 
+\contentsline {subsection}{\numberline {4.2.2}Design}{34}% 
+\contentsline {section}{\numberline {4.3}Testing}{38}% 
+\contentsline {subsection}{\numberline {4.3.1}Scattering Parameters}{38}% 
+\contentsline {subsection}{\numberline {4.3.2}Experimental Setup}{39}% 
+\contentsline {subsection}{\numberline {4.3.3}Plasma performance}{41}% 
+\contentsline {chapter}{\numberline {5}Epoxidation Process}{45}% 
+\contentsline {chapter}{\numberline {6}Gas recirculation}{46}% 
+\contentsline {chapter}{\numberline {7}Conclusion}{47}% 
+\contentsline {chapter}{\numberline {A}Particle-in-Cell Simulations}{48}% 
+\contentsline {section}{\numberline {A.1}Particle Mover}{50}% 
+\contentsline {section}{\numberline {A.2}Charge and Current Deposition}{53}% 
+\contentsline {section}{\numberline {A.3}Field Solver}{54}% 
+\contentsline {section}{\numberline {A.4}Field Interpolation}{57}% 
+\contentsline {section}{\numberline {A.5}Monte-Carlo Collisions}{58}% 
+\contentsline {chapter}{\numberline {B}XOOPIC}{60}% 
+\contentsline {section}{\numberline {B.1}Overview}{60}% 
+\contentsline {subsection}{\numberline {B.1.1}Remote Server}{61}% 
+\contentsline {subsection}{\numberline {B.1.2}Input Files}{62}% 
+\contentsline {section}{\numberline {B.2}Improvements}{63}% 
+\contentsline {subsection}{\numberline {B.2.1}Motivation}{63}% 
+\contentsline {subsection}{\numberline {B.2.2}Methodology}{65}% 
+\contentsline {subsubsection}{General Solution}{65}% 
+\contentsline {subsubsection}{Cartesian Geometry}{69}% 
+\contentsline {subsubsection}{Cylindrical Geometry}{70}% 
+\contentsline {subsection}{\numberline {B.2.3}Validation}{70}% 
+\contentsline {subsubsection}{Test Case without Particles}{71}% 
+\contentsline {subsubsection}{Test Case with Particles}{73}% 
+\contentsline {subsection}{\numberline {B.2.4}Future Work}{76}% 
+\contentsline {chapter}{Bibliography}{76}% 

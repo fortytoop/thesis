@@ -44,6 +44,67 @@ A.~Bogaerts, E.~Neyts, R.~Gijbels, and J.~{Van der Mullen}, ``{Gas discharge
   plasmas and their applications},'' {\em Spectrochimica Acta Part B: Atomic
   Spectroscopy}, vol.~57, pp.~609--658, apr 2002.
 
+\bibitem{Eijkel1999}
+J.~C. Eijkel, H.~Stoeri, and A.~Manz, ``{A molecular emission detector on a
+  chip employing a direct current microplasma},'' {\em Analytical Chemistry},
+  vol.~71, pp.~2600--2606, jul 1999.
+
+\bibitem{Ueda1999}
+M.~Ueda, L.~A. Berni, G.~F. Gomes, A.~F. Beloto, E.~Abramof, and H.~Reuther,
+  ``{Application of a dc glow discharge source with controlled plasma potential
+  in plasma immersion ion implantation},'' {\em Journal of Applied Physics},
+  vol.~86, pp.~4821--4824, oct 1999.
+
+\bibitem{Becker2006}
+K.~H. Becker, K.~H. Schoenbach, and J.~G. Eden, ``{Microplasmas and
+  applications},'' {\em Journal of Physics D: Applied Physics}, vol.~39,
+  p.~R55, jan 2006.
+
+\bibitem{Arslanbekov1998}
+R.~R. Arslanbekov, A.~A. Kudryavtsev, and R.~C. Tobin, ``{On the hollow-cathode
+  effect: Conventional and modified geometry},'' {\em Plasma Sources Science
+  and Technology}, vol.~7, pp.~310--322, aug 1998.
+
+\bibitem{watson_gewartewski_1965}
+A.~Watson and J.~W. Gewartewski, {\em Principles of Electron tubes}.
+\newblock Van Nostrand, 1965.
+
+\bibitem{Iza2008}
+F.~Iza, G.~J. Kim, S.~M. Lee, J.~K. Lee, J.~L. Walsh, Y.~T. Zhang, and M.~G.
+  Kong, ``{Microplasmas: Sources, Particle Kinetics, and Biomedical
+  Applications},'' {\em Plasma Processes and Polymers}, vol.~5, pp.~322--344,
+  jun 2008.
+
+\bibitem{Kolobov2015}
+V.~I. Kolobov and A.~S. Metel, ``{Glow discharges with electrostatic
+  confinement of fast electrons},'' vol.~48, p.~233001, may 2015.
+
+\bibitem{Eichhorn1993}
+H.~Eichhorn, K.~H. Schoenbach, and T.~Tessnow, ``{Paschen's law for a hollow
+  cathode discharge},'' {\em Applied Physics Letters}, vol.~63, pp.~2481--2483,
+  aug 1993.
+
+\bibitem{Pillow1981}
+M.~E. Pillow, ``{A critical review of spectral and related physical properties
+  of the hollow cathode discharge},'' {\em Spectrochimica Acta Part B: Atomic
+  Spectroscopy}, vol.~36, pp.~821--843, jan 1981.
+
+\bibitem{Kornilov2009}
+S.~Y. Kornilov, I.~V. Osipov, and N.~G. Rempe, ``{Generation of narrow focused
+  beams in a plasma-cathode electron gun},'' {\em Instruments and Experimental
+  Techniques 2009 52:3}, vol.~52, pp.~406--411, jun 2009.
+
+\bibitem{YuBakeev2018}
+I.~{Yu Bakeev}, A.~S. Klimov, E.~M. Oks, and A.~A. Zenin, ``{Generation of
+  high-power-density electron beams by a forevacuum-pressure plasma-cathode
+  electron source},'' {\em Plasma Sources Science and Technology}, vol.~27,
+  p.~075002, jul 2018.
+
+\bibitem{Goebel2021}
+D.~M. Goebel, G.~Becatti, I.~G. Mikellides, and A.~{Lopez Ortega}, ``{Plasma
+  hollow cathodes},'' {\em Journal of Applied Physics}, vol.~130, p.~050902,
+  aug 2021.
+
 \bibitem{Chabert2011}
 P.~Chabert and N.~Braithwaite, {\em {Physics of radio-frequency plasmas}},
   vol.~9780521763.
@@ -57,6 +118,89 @@ T.~D. Chu, ``{High Frequency Breakdown Voltage},'' Tech. Rep. March,
 J.~Pim, ``{The electrical breakdown strength of air at ultra-high
   frequencies},'' {\em Proceedings of the IEE - Part III: Radio and
   Communication Engineering}, vol.~96, pp.~117--129, mar 1949.
+
+\bibitem{Sharma2020}
+S.~Sharma, N.~Sirse, A.~Kuley, and M.~M. Turner, ``{Electric field nonlinearity
+  in very high frequency capacitive discharges at constant electron plasma
+  frequency},'' {\em Plasma Sources Science and Technology}, vol.~29,
+  p.~045003, mar 2020.
+
+\bibitem{Ohtsu2018}
+Y.~Ohtsu, ``{Physics of High-Density Radio Frequency Capacitively Coupled
+  Plasma with Various Electrodes and Its Applications},'' {\em Plasma Science
+  and Technology - Basic Fundamentals and Modern Applications}, nov 2018.
+
+\bibitem{esgee_tech_2017}
+``Ccp reactor for semiconductor materials processing,'' May 2017.
+
+\bibitem{Denpoh2021}
+K.~Denpoh, ``{Effects of driving frequency on plasma density in Ar and H2/Ar
+  capacitively coupled plasmas at Torr-order pressure},'' {\em Japanese Journal
+  of Applied Physics}, vol.~60, p.~016002, dec 2021.
+
+\bibitem{Lee2021}
+J.~Lee and S.~Hong, ``{Dual-frequency RF impedance matching circuits for
+  semiconductor plasma etch equipment},'' {\em Electronics (Switzerland)},
+  vol.~10, p.~2074, aug 2021.
+
+\bibitem{Yu2021}
+N.~Yu, R.~Jourdain, M.~Gourma, F.~Xu, A.~Bennett, and F.~Fang, ``{Power
+  Dissipation of an Inductively Coupled Plasma Torch under E Mode Dominated
+  Regime},'' {\em Micromachines 2021, Vol. 12, Page 834}, vol.~12, p.~834, jul
+  2021.
+
+\bibitem{Sakamoto2009ComparisonOP}
+Y.~Sakamoto, S.~Maeno, N.~Tsubouchi, T.~Kasuya, and M.~Wada, ``Comparison of
+  plasma parameters in ccp and icp processes appropriate for carbon nanotube
+  growth,'' 2009.
+
+\bibitem{Hopwood2004}
+J.~Hopwood and F.~Iza, ``{Ultrahigh frequency microplasmas from 1 pascal to 1
+  atmosphere},'' {\em Journal of Analytical Atomic Spectrometry}, vol.~19,
+  pp.~1145--1150, sep 2004.
+
+\bibitem{Kruger2020}
+F.~Krüger, M.~J. Kushner, S.~Shim, H.~Lee, and S.-K. Nam, ``Icp vs ccp in high
+  aspect ratio etching of sio2 using ar/c4f8/o2 gas mixtures,'' in {\em 2020
+  IEEE International Conference on Plasma Science (ICOPS)}, pp.~88--88, 2020.
+
+\bibitem{Kogelschatz2003}
+U.~Kogelschatz, ``{Dielectric-barrier discharges: Their History, Discharge
+  Physics, and Industrial Applications},'' {\em Plasma Chemistry and Plasma
+  Processing}, vol.~23, pp.~1--46, mar 2003.
+
+\bibitem{Tingay2014}
+S.~J. Tingay, D.~L. Kaplan, E.~Lenc, K.~M. {J Alards}, P.~J. {Bruggeman -},
+  C.~Constans, P.~Mateo, R.~Bazinette, R.~Subileau, J.~Paillol, and
+  F.~Massines, ``{Identification of the different diffuse dielectric barrier
+  discharges obtained between 50 kHz to 9 MHz in Ar/NH3 at atmospheric
+  pressure},'' {\em Plasma Sources Science and Technology}, vol.~23, p.~035008,
+  may 2014.
+
+\bibitem{Brandenburg2017}
+R.~Brandenburg, ``{Dielectric barrier discharges: progress on plasma sources
+  and on the understanding of regimes and single filaments},'' {\em Plasma
+  Sources Science and Technology}, vol.~26, p.~053001, apr 2017.
+
+\bibitem{Toyoda2020}
+H.~Toyoda, ``{Microwave plasma},'' in {\em RF Power Semiconductor Generator
+  Application in Heating and Energy Utilization}, pp.~181--194, Springer
+  Singapore, jan 2020.
+
+\bibitem{Pollak2007}
+J.~Pollak, M.~Moisan, and Z.~Zakrzewski, ``{Long and uniform plasma columns
+  generated by linear field-applicators based on stripline technology},'' {\em
+  Plasma Sources Science and Technology}, vol.~16, p.~310, mar 2007.
+
+\bibitem{Iza2003}
+F.~Iza and J.~A. Hopwood, ``{Low-power microwave plasma source based on a
+  microstrip split-ring resonator},'' {\em IEEE Transactions on Plasma
+  Science}, vol.~31, no.~4 I, pp.~782--787, 2003.
+
+\bibitem{Surendra1998}
+M.~Surendra and D.~B. Graves, ``{Capacitively coupled glow discharges at
+  frequencies above 13.56 MHz},'' {\em Applied Physics Letters}, vol.~59,
+  p.~2091, jun 1998.
 
 \bibitem{rayne_2008}
 S.~Rayne, ``Thermal carbon dioxide splitting: A summary of the peer-reviewed
@@ -95,15 +239,30 @@ H.~Xu, M.~Shaban, S.~Wang, A.~Alkayal, D.~Liu, M.~G. Kong, F.~Plasser, B.~R.
   Buckley, and F.~Iza, ``{Oxygen harvesting from carbon dioxide: simultaneous
   epoxidation and CO formation},'' {\em Chemical Science}, 2021.
 
+\bibitem{Gorbanev2019}
+Y.~Gorbanev, J.~Golda, V.~S.-v. der Gathen, and A.~Bogaerts, ``{Applications of
+  the COST Plasma Jet: More than a Reference Standard},'' {\em Plasma 2019,
+  Vol. 2, Pages 316-327}, vol.~2, pp.~316--327, jul 2019.
+
 \bibitem{Dextre2017}
 R.~A. Dextre and K.~G. Xu, ``{Effect of the Split-Ring Resonator Width on the
   Microwave Microplasma Properties},'' {\em IEEE Transactions on Plasma
   Science}, vol.~45, pp.~215--222, feb 2017.
 
+\bibitem{Iza2005}
+F.~Iza and J.~A. Hopwood, ``{Split-ring resonator microplasma: Microwave model,
+  plasma impedance and power efficiency},'' {\em Plasma Sources Science and
+  Technology}, vol.~14, pp.~397--406, may 2005.
+
 \bibitem{wheeler_1977}
 H.~Wheeler, ``Transmission-line properties of a strip on a dielectric sheet on
   a plane,'' {\em IEEE Transactions on Microwave Theory and Techniques},
   vol.~25, p.~631–647, Aug 1977.
+
+\bibitem{Verboncoeur1995}
+J.~P. Verboncoeur, A.~B. Langdon, and N.~T. Gladd, ``{An object-oriented
+  electromagnetic PIC code},'' {\em Computer Physics Communications}, vol.~87,
+  pp.~199--211, may 1995.
 
 \bibitem{Kim2005}
 H.~C. Kim, F.~Iza, S.~S. Yang, M.~Radmilovi{\'{c}}-Radjenovi{\'{c}}, and J.~K.
@@ -166,11 +325,6 @@ F.~Iza, S.~H. Lee, and J.~K. Lee, ``{Computer modeling of low-temperature
 V.~Vahedi and M.~Surendra, ``{A Monte Carlo collision model for the
   particle-in-cell method: applications to argon and oxygen discharges},'' {\em
   Computer Physics Communications}, vol.~87, pp.~179--198, may 1995.
-
-\bibitem{Verboncoeur1995}
-J.~P. Verboncoeur, A.~B. Langdon, and N.~T. Gladd, ``{An object-oriented
-  electromagnetic PIC code},'' {\em Computer Physics Communications}, vol.~87,
-  pp.~199--211, may 1995.
 
 \bibitem{tskhakaya_matyash_schneider_taccogna_2007}
 D.~Tskhakaya, K.~Matyash, R.~Schneider, and F.~Taccogna, ``The particle-in-cell

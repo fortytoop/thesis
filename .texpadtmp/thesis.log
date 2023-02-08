@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.22)  4 JAN 2023 22:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.22)  8 FEB 2023 16:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -741,13 +741,13 @@ Overfull \vbox (74.40968pt too high) detected at line 21
 
 ] (/Users/prateepkasinathan/Documents/University/PhD/Thesis/thesis/.texpadtmp/thesis.lof [7
 
-])
+] [8] [9])
 \tf@lof=\write6
 \openout6 = `thesis.lof'.
 
- [8] (./chapter_1/chapter_1.tex
+ [10] (./chapter_1/chapter_1.tex
 Chapter 1.
-<chapter_1/figures/emissions.png, id=44, 1306.8825pt x 1237.62375pt>
+<chapter_1/figures/emissions.png, id=51, 1306.8825pt x 1237.62375pt>
 File: chapter_1/figures/emissions.png Graphic file (type png)
 <use chapter_1/figures/emissions.png>
 Package pdftex.def Info: chapter_1/figures/emissions.png  used on input line 7.
@@ -760,241 +760,360 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 ] [2 <./chapter_1/figures/emissions.png (PNG copy)>]) (./chapter_2/chapter_2.tex [3]
 Chapter 2.
-
-Underfull \vbox (badness 1946) has occurred while \output is active []
-
- [4
+[4
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 28.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
  [5]
-<chapter_2/figures/paschen_curve.png, id=63, 1034.86626pt x 1027.84pt>
+<chapter_2/figures/paschen_curve.png, id=70, 1034.86626pt x 1027.84pt>
 File: chapter_2/figures/paschen_curve.png Graphic file (type png)
 <use chapter_2/figures/paschen_curve.png>
-Package pdftex.def Info: chapter_2/figures/paschen_curve.png  used on input line 34.
+Package pdftex.def Info: chapter_2/figures/paschen_curve.png  used on input line 32.
 (pdftex.def)             Requested size: 290.22107pt x 288.24806pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6 <./chapter_2/figures/paschen_curve.png>]
-<chapter_2/figures/basic_circuit.png, id=69, 452.69125pt x 212.795pt>
+<chapter_2/figures/basic_circuit.png, id=72, 452.69125pt x 212.795pt>
 File: chapter_2/figures/basic_circuit.png Graphic file (type png)
 <use chapter_2/figures/basic_circuit.png>
-Package pdftex.def Info: chapter_2/figures/basic_circuit.png  used on input line 45.
+Package pdftex.def Info: chapter_2/figures/basic_circuit.png  used on input line 43.
 (pdftex.def)             Requested size: 290.22107pt x 136.4221pt.
-<chapter_2/figures/dc_discharge.png, id=70, 1284.8pt x 836.12375pt>
-File: chapter_2/figures/dc_discharge.png Graphic file (type png)
-<use chapter_2/figures/dc_discharge.png>
-Package pdftex.def Info: chapter_2/figures/dc_discharge.png  used on input line 54.
-(pdftex.def)             Requested size: 386.95897pt x 251.82144pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[7 <./chapter_2/figures/basic_circuit.png>] [8 <./chapter_2/figures/dc_discharge.png>]
-<chapter_2/figures/glow_discharge.png, id=80, 433.62pt x 329.23pt>
+[6 <./chapter_2/figures/paschen_curve.png>]
+<chapter_2/figures/dc_discharge.png, id=77, 1284.8pt x 836.12375pt>
+File: chapter_2/figures/dc_discharge.png Graphic file (type png)
+<use chapter_2/figures/dc_discharge.png>
+Package pdftex.def Info: chapter_2/figures/dc_discharge.png  used on input line 52.
+(pdftex.def)             Requested size: 386.95897pt x 251.82144pt.
+ [7 <./chapter_2/figures/basic_circuit.png> <./chapter_2/figures/dc_discharge.png>]
+<chapter_2/figures/glow_discharge.png, id=85, 433.62pt x 329.23pt>
 File: chapter_2/figures/glow_discharge.png Graphic file (type png)
 <use chapter_2/figures/glow_discharge.png>
-Package pdftex.def Info: chapter_2/figures/glow_discharge.png  used on input line 69.
+Package pdftex.def Info: chapter_2/figures/glow_discharge.png  used on input line 67.
 (pdftex.def)             Requested size: 338.58632pt x 257.0847pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9 <./chapter_2/figures/glow_discharge.png>]
-<chapter_2/figures/ac_breakdown.png, id=86, 1183.42125pt x 984.67876pt>
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[8] [9 <./chapter_2/figures/glow_discharge.png>]
+<chapter_2/figures/parallel_plate.jpeg, id=93, 498.663pt x 108.405pt>
+File: chapter_2/figures/parallel_plate.jpeg Graphic file (type jpg)
+<use chapter_2/figures/parallel_plate.jpeg>
+Package pdftex.def Info: chapter_2/figures/parallel_plate.jpeg  used on input line 83.
+(pdftex.def)             Requested size: 483.69687pt x 105.15105pt.
+<chapter_2/figures/hollow_cathode_illustration.png, id=94, 696.6025pt x 344.28625pt>
+File: chapter_2/figures/hollow_cathode_illustration.png Graphic file (type png)
+<use chapter_2/figures/hollow_cathode_illustration.png>
+Package pdftex.def Info: chapter_2/figures/hollow_cathode_illustration.png  used on input line 96.
+(pdftex.def)             Requested size: 290.22107pt x 143.43823pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./chapter_2/figures/parallel_plate.jpeg>]
+<chapter_2/figures/current_density_hollow_cathode.png, id=98, 838.13126pt x 492.84125pt>
+File: chapter_2/figures/current_density_hollow_cathode.png Graphic file (type png)
+<use chapter_2/figures/current_density_hollow_cathode.png>
+Package pdftex.def Info: chapter_2/figures/current_density_hollow_cathode.png  used on input line 109.
+(pdftex.def)             Requested size: 459.51054pt x 270.1987pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[11 <./chapter_2/figures/hollow_cathode_illustration.png>] [12 <./chapter_2/figures/current_density_hollow_cathode.png>]
+<chapter_2/figures/ac_breakdown.png, id=107, 1183.42125pt x 984.67876pt>
 File: chapter_2/figures/ac_breakdown.png Graphic file (type png)
 <use chapter_2/figures/ac_breakdown.png>
-Package pdftex.def Info: chapter_2/figures/ac_breakdown.png  used on input line 88.
+Package pdftex.def Info: chapter_2/figures/ac_breakdown.png  used on input line 134.
 (pdftex.def)             Requested size: 483.69687pt x 402.4588pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (./chapter_3/chapter_3.tex [10] [11 <./chapter_2/figures/ac_breakdown.png>]
+[13]
+<chapter_2/figures/CCP_reactor.png, id=112, 485.815pt x 382.42876pt>
+File: chapter_2/figures/CCP_reactor.png Graphic file (type png)
+<use chapter_2/figures/CCP_reactor.png>
+Package pdftex.def Info: chapter_2/figures/CCP_reactor.png  used on input line 149.
+(pdftex.def)             Requested size: 290.22107pt x 228.45532pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14 <./chapter_2/figures/ac_breakdown.png>]
+<chapter_2/figures/ccp_electron_temp.jpg, id=117, 306.39468pt x 187.45032pt>
+File: chapter_2/figures/ccp_electron_temp.jpg Graphic file (type jpg)
+<use chapter_2/figures/ccp_electron_temp.jpg>
+Package pdftex.def Info: chapter_2/figures/ccp_electron_temp.jpg  used on input line 158.
+(pdftex.def)             Requested size: 290.22107pt x 177.56479pt.
+
+
+Package natbib Warning: Citation `' on page 15 undefined on input line 163.
+
+[15 <./chapter_2/figures/CCP_reactor.png> <./chapter_2/figures/ccp_electron_temp.jpg>]
+<chapter_2/figures/ICP_reactor.png, id=123, 281.25075pt x 234.8775pt>
+File: chapter_2/figures/ICP_reactor.png Graphic file (type png)
+<use chapter_2/figures/ICP_reactor.png>
+Package pdftex.def Info: chapter_2/figures/ICP_reactor.png  used on input line 173.
+(pdftex.def)             Requested size: 338.58632pt x 282.75832pt.
+ [16 <./chapter_2/figures/ICP_reactor.png>]
+<chapter_2/figures/CCP_vs_ICP_reactor.png, id=127, 659.46375pt x 456.70625pt>
+File: chapter_2/figures/CCP_vs_ICP_reactor.png Graphic file (type png)
+<use chapter_2/figures/CCP_vs_ICP_reactor.png>
+Package pdftex.def Info: chapter_2/figures/CCP_vs_ICP_reactor.png  used on input line 182.
+(pdftex.def)             Requested size: 483.69687pt x 334.98863pt.
+
+
+LaTeX Warning: Command \textendash invalid in math mode on input line 188.
+
+[17 <./chapter_2/figures/CCP_vs_ICP_reactor.png>]
+<chapter_2/figures/dbd_configurations.png, id=132, 611.28375pt x 163.61125pt>
+File: chapter_2/figures/dbd_configurations.png Graphic file (type png)
+<use chapter_2/figures/dbd_configurations.png>
+Package pdftex.def Info: chapter_2/figures/dbd_configurations.png  used on input line 199.
+(pdftex.def)             Requested size: 483.69687pt x 129.46117pt.
+ [18 <./chapter_2/figures/dbd_configurations.png>]
+<chapter_2/figures/surface_wave_discharge.png, id=137, 1071.00125pt x 518.93875pt>
+File: chapter_2/figures/surface_wave_discharge.png Graphic file (type png)
+<use chapter_2/figures/surface_wave_discharge.png>
+Package pdftex.def Info: chapter_2/figures/surface_wave_discharge.png  used on input line 219.
+(pdftex.def)             Requested size: 266.03474pt x 128.90294pt.
+<chapter_2/figures/electron_cyclotron_resonance.png, id=138, 891.33pt x 430.60875pt>
+File: chapter_2/figures/electron_cyclotron_resonance.png Graphic file (type png)
+<use chapter_2/figures/electron_cyclotron_resonance.png>
+Package pdftex.def Info: chapter_2/figures/electron_cyclotron_resonance.png  used on input line 226.
+(pdftex.def)             Requested size: 266.03474pt x 128.51999pt.
+ [19 <./chapter_2/figures/surface_wave_discharge.png> <./chapter_2/figures/electron_cyclotron_resonance.png>]
+<chapter_2/figures/microstrip_microwave_discharge.jpg, id=145, 385.1991pt x 250.7769pt>
+File: chapter_2/figures/microstrip_microwave_discharge.jpg Graphic file (type jpg)
+<use chapter_2/figures/microstrip_microwave_discharge.jpg>
+Package pdftex.def Info: chapter_2/figures/microstrip_microwave_discharge.jpg  used on input line 238.
+(pdftex.def)             Requested size: 386.95897pt x 251.92805pt.
+) (./chapter_3/chapter_3.tex [20 <./chapter_2/figures/microstrip_microwave_discharge.jpg>]
 Chapter 3.
-[12
+[21
 
 ]
-<chapter_3/figures/co2_stability.jpg, id=97, 1284.8pt x 778.91pt>
+<chapter_3/figures/co2_stability.jpg, id=152, 1284.8pt x 778.91pt>
 File: chapter_3/figures/co2_stability.jpg Graphic file (type jpg)
 <use chapter_3/figures/co2_stability.jpg>
 Package pdftex.def Info: chapter_3/figures/co2_stability.jpg  used on input line 27.
 (pdftex.def)             Requested size: 290.22107pt x 175.94841pt.
-<chapter_3/figures/thermal_co2_conversion.png, id=98, 949.5475pt x 650.43pt>
+<chapter_3/figures/thermal_co2_conversion.png, id=153, 949.5475pt x 650.43pt>
 File: chapter_3/figures/thermal_co2_conversion.png Graphic file (type png)
 <use chapter_3/figures/thermal_co2_conversion.png>
 Package pdftex.def Info: chapter_3/figures/thermal_co2_conversion.png  used on input line 37.
 (pdftex.def)             Requested size: 290.22107pt x 198.79272pt.
- [13 <./chapter_3/figures/co2_stability.jpg> <./chapter_3/figures/thermal_co2_conversion.png>] [14]
-<chapter_3/figures/mw_reactor.png, id=107, 983.675pt x 646.415pt>
+ [22 <./chapter_3/figures/co2_stability.jpg> <./chapter_3/figures/thermal_co2_conversion.png>] [23]
+<chapter_3/figures/mw_reactor.png, id=161, 983.675pt x 646.415pt>
 File: chapter_3/figures/mw_reactor.png Graphic file (type png)
 <use chapter_3/figures/mw_reactor.png>
 Package pdftex.def Info: chapter_3/figures/mw_reactor.png  used on input line 73.
 (pdftex.def)             Requested size: 290.22107pt x 190.7105pt.
- [15 <./chapter_3/figures/mw_reactor.png>]) (./chapter_4/chapter_4.tex [16]
+ [24 <./chapter_3/figures/mw_reactor.png>]) (./chapter_4/chapter_4.tex [25]
 Chapter 4.
-<chapter_4/figures/split_ring_resonator.png, id=116, 644.4075pt x 335.2525pt>
+<chapter_4/figures/split_ring_resonator.png, id=170, 644.4075pt x 335.2525pt>
 File: chapter_4/figures/split_ring_resonator.png Graphic file (type png)
 <use chapter_4/figures/split_ring_resonator.png>
-Package pdftex.def Info: chapter_4/figures/split_ring_resonator.png  used on input line 8.
+Package pdftex.def Info: chapter_4/figures/split_ring_resonator.png  used on input line 13.
 (pdftex.def)             Requested size: 338.58632pt x 176.15343pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17
-
- <./chapter_4/figures/split_ring_resonator.png>] [18]
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[19]
-<chapter_4/figures/SSR_no_gap_start.png, id=127, 429.605pt x 351.3125pt>
-File: chapter_4/figures/SSR_no_gap_start.png Graphic file (type png)
-<use chapter_4/figures/SSR_no_gap_start.png>
-Package pdftex.def Info: chapter_4/figures/SSR_no_gap_start.png  used on input line 71.
+[26
+
+] [27 <./chapter_4/figures/split_ring_resonator.png>] [28]
+
+Package natbib Warning: Citation `iza2003' on page 29 undefined on input line 66.
+
+[29]
+<chapter_4/figures/SRR_no_gap_start.png, id=185, 429.605pt x 351.3125pt>
+File: chapter_4/figures/SRR_no_gap_start.png Graphic file (type png)
+<use chapter_4/figures/SRR_no_gap_start.png>
+Package pdftex.def Info: chapter_4/figures/SRR_no_gap_start.png  used on input line 95.
 (pdftex.def)             Requested size: 217.66211pt x 177.99838pt.
-<chapter_4/figures/SSR_with_gap_start.png, id=128, 429.605pt x 351.3125pt>
-File: chapter_4/figures/SSR_with_gap_start.png Graphic file (type png)
-<use chapter_4/figures/SSR_with_gap_start.png>
-Package pdftex.def Info: chapter_4/figures/SSR_with_gap_start.png  used on input line 77.
+<chapter_4/figures/SRR_with_gap_start.png, id=186, 429.605pt x 351.3125pt>
+File: chapter_4/figures/SRR_with_gap_start.png Graphic file (type png)
+<use chapter_4/figures/SRR_with_gap_start.png>
+Package pdftex.def Info: chapter_4/figures/SRR_with_gap_start.png  used on input line 101.
 (pdftex.def)             Requested size: 217.66211pt x 177.99838pt.
-<chapter_4/figures/SSR_no_hole_electrons.png, id=129, 413.545pt x 335.2525pt>
-File: chapter_4/figures/SSR_no_hole_electrons.png Graphic file (type png)
-<use chapter_4/figures/SSR_no_hole_electrons.png>
-Package pdftex.def Info: chapter_4/figures/SSR_no_hole_electrons.png  used on input line 91.
+<chapter_4/figures/SRR_no_hole_electrons.png, id=187, 413.545pt x 335.2525pt>
+File: chapter_4/figures/SRR_no_hole_electrons.png Graphic file (type png)
+<use chapter_4/figures/SRR_no_hole_electrons.png>
+Package pdftex.def Info: chapter_4/figures/SRR_no_hole_electrons.png  used on input line 115.
 (pdftex.def)             Requested size: 229.75896pt x 186.26172pt.
-<chapter_4/figures/SSR_no_hole_ions.png, id=130, 429.605pt x 351.3125pt>
-File: chapter_4/figures/SSR_no_hole_ions.png Graphic file (type png)
-<use chapter_4/figures/SSR_no_hole_ions.png>
-Package pdftex.def Info: chapter_4/figures/SSR_no_hole_ions.png  used on input line 99.
+<chapter_4/figures/SRR_no_hole_ions.png, id=188, 429.605pt x 351.3125pt>
+File: chapter_4/figures/SRR_no_hole_ions.png Graphic file (type png)
+<use chapter_4/figures/SRR_no_hole_ions.png>
+Package pdftex.def Info: chapter_4/figures/SRR_no_hole_ions.png  used on input line 122.
 (pdftex.def)             Requested size: 229.75896pt x 187.88867pt.
-<chapter_4/figures/SSR_with_hole_electrons.png, id=131, 413.545pt x 335.2525pt>
-File: chapter_4/figures/SSR_with_hole_electrons.png Graphic file (type png)
-<use chapter_4/figures/SSR_with_hole_electrons.png>
-Package pdftex.def Info: chapter_4/figures/SSR_with_hole_electrons.png  used on input line 107.
+<chapter_4/figures/SRR_with_hole_electrons.png, id=189, 413.545pt x 335.2525pt>
+File: chapter_4/figures/SRR_with_hole_electrons.png Graphic file (type png)
+<use chapter_4/figures/SRR_with_hole_electrons.png>
+Package pdftex.def Info: chapter_4/figures/SRR_with_hole_electrons.png  used on input line 129.
 (pdftex.def)             Requested size: 229.75896pt x 186.26172pt.
-<chapter_4/figures/SSR_with_hole_ions.png, id=132, 429.605pt x 351.3125pt>
-File: chapter_4/figures/SSR_with_hole_ions.png Graphic file (type png)
-<use chapter_4/figures/SSR_with_hole_ions.png>
-Package pdftex.def Info: chapter_4/figures/SSR_with_hole_ions.png  used on input line 115.
+<chapter_4/figures/SRR_with_hole_ions.png, id=190, 429.605pt x 351.3125pt>
+File: chapter_4/figures/SRR_with_hole_ions.png Graphic file (type png)
+<use chapter_4/figures/SRR_with_hole_ions.png>
+Package pdftex.def Info: chapter_4/figures/SRR_with_hole_ions.png  used on input line 136.
 (pdftex.def)             Requested size: 229.75896pt x 187.88867pt.
- [20 <./chapter_4/figures/SSR_no_gap_start.png> <./chapter_4/figures/SSR_with_gap_start.png>] [21 <./chapter_4/figures/SSR_no_hole_electrons.png> <./chapter_4/figures/SSR_no_hole_ions.png> <./chapter_4/figures/SSR_with_hole_electrons.png> <./chapter_4/figures/SSR_with_hole_ions.png>]
-<chapter_4/figures/num_elec_gap.png, id=147, 898.35625pt x 273.02pt>
+ [30 <./chapter_4/figures/SRR_no_gap_start.png> <./chapter_4/figures/SRR_with_gap_start.png>] [31 <./chapter_4/figures/SRR_no_hole_electrons.png> <./chapter_4/figures/SRR_no_hole_ions.png> <./chapter_4/figures/SRR_with_hole_electrons.png> <./chapter_4/figures/SRR_with_hole_ions.png>]
+<chapter_4/figures/num_elec_gap.png, id=204, 898.35625pt x 273.02pt>
 File: chapter_4/figures/num_elec_gap.png Graphic file (type png)
 <use chapter_4/figures/num_elec_gap.png>
-Package pdftex.def Info: chapter_4/figures/num_elec_gap.png  used on input line 133.
+Package pdftex.def Info: chapter_4/figures/num_elec_gap.png  used on input line 155.
 (pdftex.def)             Requested size: 483.69687pt x 146.99951pt.
-<chapter_4/figures/SSR_dielectric_1.png, id=148, 475.7775pt x 367.3725pt>
-File: chapter_4/figures/SSR_dielectric_1.png Graphic file (type png)
-<use chapter_4/figures/SSR_dielectric_1.png>
-Package pdftex.def Info: chapter_4/figures/SSR_dielectric_1.png  used on input line 144.
+<chapter_4/figures/SRR_dielectric_1.png, id=205, 475.7775pt x 367.3725pt>
+File: chapter_4/figures/SRR_dielectric_1.png Graphic file (type png)
+<use chapter_4/figures/SRR_dielectric_1.png>
+Package pdftex.def Info: chapter_4/figures/SRR_dielectric_1.png  used on input line 166.
 (pdftex.def)             Requested size: 229.75896pt x 177.40746pt.
-<chapter_4/figures/SSR_dielectric_2.png, id=149, 475.7775pt x 367.3725pt>
-File: chapter_4/figures/SSR_dielectric_2.png Graphic file (type png)
-<use chapter_4/figures/SSR_dielectric_2.png>
-Package pdftex.def Info: chapter_4/figures/SSR_dielectric_2.png  used on input line 152.
+<chapter_4/figures/SRR_dielectric_2.png, id=206, 475.7775pt x 367.3725pt>
+File: chapter_4/figures/SRR_dielectric_2.png Graphic file (type png)
+<use chapter_4/figures/SRR_dielectric_2.png>
+Package pdftex.def Info: chapter_4/figures/SRR_dielectric_2.png  used on input line 173.
 (pdftex.def)             Requested size: 229.75896pt x 177.40746pt.
-<chapter_4/figures/SSR_dielectric_3.png, id=150, 475.7775pt x 367.3725pt>
-File: chapter_4/figures/SSR_dielectric_3.png Graphic file (type png)
-<use chapter_4/figures/SSR_dielectric_3.png>
-Package pdftex.def Info: chapter_4/figures/SSR_dielectric_3.png  used on input line 160.
+<chapter_4/figures/SRR_dielectric_3.png, id=207, 475.7775pt x 367.3725pt>
+File: chapter_4/figures/SRR_dielectric_3.png Graphic file (type png)
+<use chapter_4/figures/SRR_dielectric_3.png>
+Package pdftex.def Info: chapter_4/figures/SRR_dielectric_3.png  used on input line 180.
 (pdftex.def)             Requested size: 229.75896pt x 177.40746pt.
-<chapter_4/figures/SSR_dielectric_4.png, id=151, 475.7775pt x 367.3725pt>
-File: chapter_4/figures/SSR_dielectric_4.png Graphic file (type png)
-<use chapter_4/figures/SSR_dielectric_4.png>
-Package pdftex.def Info: chapter_4/figures/SSR_dielectric_4.png  used on input line 168.
+<chapter_4/figures/SRR_dielectric_4.png, id=208, 475.7775pt x 367.3725pt>
+File: chapter_4/figures/SRR_dielectric_4.png Graphic file (type png)
+<use chapter_4/figures/SRR_dielectric_4.png>
+Package pdftex.def Info: chapter_4/figures/SRR_dielectric_4.png  used on input line 187.
 (pdftex.def)             Requested size: 229.75896pt x 177.40746pt.
-<chapter_4/figures/SSR_dielectric_5.png, id=152, 475.7775pt x 367.3725pt>
-File: chapter_4/figures/SSR_dielectric_5.png Graphic file (type png)
-<use chapter_4/figures/SSR_dielectric_5.png>
-Package pdftex.def Info: chapter_4/figures/SSR_dielectric_5.png  used on input line 176.
+<chapter_4/figures/SRR_dielectric_5.png, id=209, 475.7775pt x 367.3725pt>
+File: chapter_4/figures/SRR_dielectric_5.png Graphic file (type png)
+<use chapter_4/figures/SRR_dielectric_5.png>
+Package pdftex.def Info: chapter_4/figures/SRR_dielectric_5.png  used on input line 194.
 (pdftex.def)             Requested size: 229.75896pt x 177.40746pt.
- [22 <./chapter_4/figures/num_elec_gap.png>] [23 <./chapter_4/figures/SSR_dielectric_1.png> <./chapter_4/figures/SSR_dielectric_2.png> <./chapter_4/figures/SSR_dielectric_3.png> <./chapter_4/figures/SSR_dielectric_4.png> <./chapter_4/figures/SSR_dielectric_5.png>] [24]
-<chapter_4/figures/SSR_CAD.png, id=168, 866.23625pt x 917.4275pt>
-File: chapter_4/figures/SSR_CAD.png Graphic file (type png)
-<use chapter_4/figures/SSR_CAD.png>
-Package pdftex.def Info: chapter_4/figures/SSR_CAD.png  used on input line 202.
-(pdftex.def)             Requested size: 435.32422pt x 461.05043pt.
+ [32 <./chapter_4/figures/num_elec_gap.png>] [33 <./chapter_4/figures/SRR_dielectric_1.png> <./chapter_4/figures/SRR_dielectric_2.png> <./chapter_4/figures/SRR_dielectric_3.png> <./chapter_4/figures/SRR_dielectric_4.png> <./chapter_4/figures/SRR_dielectric_5.png>] [34]
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 215.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 215.
+ [35]
+<chapter_4/figures/SRR_CAD.png, id=229, 866.23625pt x 917.4275pt>
+File: chapter_4/figures/SRR_CAD.png Graphic file (type png)
+<use chapter_4/figures/SRR_CAD.png>
+Package pdftex.def Info: chapter_4/figures/SRR_CAD.png  used on input line 223.
+(pdftex.def)             Requested size: 483.69687pt x 512.28604pt.
+<chapter_4/figures/SRR_CAD_hole_1.png, id=230, 754.82pt x 625.33624pt>
+File: chapter_4/figures/SRR_CAD_hole_1.png Graphic file (type png)
+<use chapter_4/figures/SRR_CAD_hole_1.png>
+Package pdftex.def Info: chapter_4/figures/SRR_CAD_hole_1.png  used on input line 232.
+(pdftex.def)             Requested size: 229.75896pt x 190.34082pt.
+<chapter_4/figures/SRR_CAD_hole_2.png, id=231, 754.82pt x 625.33624pt>
+File: chapter_4/figures/SRR_CAD_hole_2.png Graphic file (type png)
+<use chapter_4/figures/SRR_CAD_hole_2.png>
+Package pdftex.def Info: chapter_4/figures/SRR_CAD_hole_2.png  used on input line 239.
+(pdftex.def)             Requested size: 229.75896pt x 190.34082pt.
+<chapter_4/figures/SRR_CAD_hole_3.png, id=232, 754.82pt x 625.33624pt>
+File: chapter_4/figures/SRR_CAD_hole_3.png Graphic file (type png)
+<use chapter_4/figures/SRR_CAD_hole_3.png>
+Package pdftex.def Info: chapter_4/figures/SRR_CAD_hole_3.png  used on input line 246.
+(pdftex.def)             Requested size: 229.75896pt x 190.34082pt.
+<chapter_4/figures/SRR_CAD_hole_4.png, id=233, 754.82pt x 625.33624pt>
+File: chapter_4/figures/SRR_CAD_hole_4.png Graphic file (type png)
+<use chapter_4/figures/SRR_CAD_hole_4.png>
+Package pdftex.def Info: chapter_4/figures/SRR_CAD_hole_4.png  used on input line 253.
+(pdftex.def)             Requested size: 229.75896pt x 190.34082pt.
+ [36 <./chapter_4/figures/SRR_CAD.png>] [37 <./chapter_4/figures/SRR_CAD_hole_1.png> <./chapter_4/figures/SRR_CAD_hole_2.png> <./chapter_4/figures/SRR_CAD_hole_3.png> <./chapter_4/figures/SRR_CAD_hole_4.png>]
+<chapter_4/figures/S11.png, id=246, 803.0pt x 501.875pt>
+File: chapter_4/figures/S11.png Graphic file (type png)
+<use chapter_4/figures/S11.png>
+Package pdftex.def Info: chapter_4/figures/S11.png  used on input line 277.
+(pdftex.def)             Requested size: 483.69687pt x 302.3143pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<chapter_4/figures/SSR_CAD_hole_1.png, id=169, 754.82pt x 625.33624pt>
-File: chapter_4/figures/SSR_CAD_hole_1.png Graphic file (type png)
-<use chapter_4/figures/SSR_CAD_hole_1.png>
-Package pdftex.def Info: chapter_4/figures/SSR_CAD_hole_1.png  used on input line 211.
-(pdftex.def)             Requested size: 229.75896pt x 190.34082pt.
-<chapter_4/figures/SSR_CAD_hole_2.png, id=170, 754.82pt x 625.33624pt>
-File: chapter_4/figures/SSR_CAD_hole_2.png Graphic file (type png)
-<use chapter_4/figures/SSR_CAD_hole_2.png>
-Package pdftex.def Info: chapter_4/figures/SSR_CAD_hole_2.png  used on input line 219.
-(pdftex.def)             Requested size: 229.75896pt x 190.34082pt.
-<chapter_4/figures/SSR_CAD_hole_3.png, id=171, 754.82pt x 625.33624pt>
-File: chapter_4/figures/SSR_CAD_hole_3.png Graphic file (type png)
-<use chapter_4/figures/SSR_CAD_hole_3.png>
-Package pdftex.def Info: chapter_4/figures/SSR_CAD_hole_3.png  used on input line 227.
-(pdftex.def)             Requested size: 229.75896pt x 190.34082pt.
-<chapter_4/figures/SSR_CAD_hole_4.png, id=172, 754.82pt x 625.33624pt>
-File: chapter_4/figures/SSR_CAD_hole_4.png Graphic file (type png)
-<use chapter_4/figures/SSR_CAD_hole_4.png>
-Package pdftex.def Info: chapter_4/figures/SSR_CAD_hole_4.png  used on input line 235.
-(pdftex.def)             Requested size: 229.75896pt x 190.34082pt.
-) (./chapter_5/chapter_5.tex [25] [26 <./chapter_4/figures/SSR_CAD.png>] [27 <./chapter_4/figures/SSR_CAD_hole_1.png> <./chapter_4/figures/SSR_CAD_hole_2.png> <./chapter_4/figures/SSR_CAD_hole_3.png> <./chapter_4/figures/SSR_CAD_hole_4.png>]
+[38]
+<chapter_4/figures/SRR_setup.png, id=251, 1230.5975pt x 754.82pt>
+File: chapter_4/figures/SRR_setup.png Graphic file (type png)
+<use chapter_4/figures/SRR_setup.png>
+Package pdftex.def Info: chapter_4/figures/SRR_setup.png  used on input line 293.
+(pdftex.def)             Requested size: 483.69687pt x 296.68214pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[39 <./chapter_4/figures/S11.png>]
+<chapter_4/figures/plasma.jpeg, id=256, 2908.8675pt x 2620.79124pt>
+File: chapter_4/figures/plasma.jpeg Graphic file (type jpg)
+<use chapter_4/figures/plasma.jpeg>
+Package pdftex.def Info: chapter_4/figures/plasma.jpeg  used on input line 304.
+(pdftex.def)             Requested size: 266.03474pt x 239.66008pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[40 <./chapter_4/figures/SRR_setup.png>] [41 <./chapter_4/figures/plasma.jpeg>]
+<chapter_4/figures/reflected_power_SRR.png, id=264, 803.0pt x 501.875pt>
+File: chapter_4/figures/reflected_power_SRR.png Graphic file (type png)
+<use chapter_4/figures/reflected_power_SRR.png>
+Package pdftex.def Info: chapter_4/figures/reflected_power_SRR.png  used on input line 320.
+(pdftex.def)             Requested size: 483.69687pt x 302.3143pt.
+ [42 <./chapter_4/figures/reflected_power_SRR.png>]
+<chapter_4/figures/ignition_power.png, id=269, 803.0pt x 501.875pt>
+File: chapter_4/figures/ignition_power.png Graphic file (type png)
+<use chapter_4/figures/ignition_power.png>
+Package pdftex.def Info: chapter_4/figures/ignition_power.png  used on input line 333.
+(pdftex.def)             Requested size: 483.69687pt x 302.3143pt.
+ [43 <./chapter_4/figures/ignition_power.png>]) (./chapter_5/chapter_5.tex [44]
 Chapter 5.
-) (./chapter_6/chapter_6.tex [28
+) (./chapter_6/chapter_6.tex [45
 
 ]
 Chapter 6.
-) (./chapter_7/chapter_7.tex [29
+) (./chapter_7/chapter_7.tex [46
 
 ]
 Chapter 7.
-) (./particle_in_cell/particle_in_cell.tex [30
+) (./particle_in_cell/particle_in_cell.tex [47
 
 ]
 Appendix A.
-[31
+[48
 
 ]
-<particle_in_cell/figures/pic_flowchart.png, id=200, 1246.6575pt x 684.5575pt>
+<particle_in_cell/figures/pic_flowchart.png, id=290, 1246.6575pt x 684.5575pt>
 File: particle_in_cell/figures/pic_flowchart.png Graphic file (type png)
 <use particle_in_cell/figures/pic_flowchart.png>
 Package pdftex.def Info: particle_in_cell/figures/pic_flowchart.png  used on input line 18.
 (pdftex.def)             Requested size: 483.69687pt x 265.60799pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32 <./particle_in_cell/figures/pic_flowchart.png>]
-<particle_in_cell/figures/leap_frog.png, id=205, 853.1875pt x 412.54124pt>
+ [49 <./particle_in_cell/figures/pic_flowchart.png>]
+<particle_in_cell/figures/leap_frog.png, id=296, 853.1875pt x 412.54124pt>
 File: particle_in_cell/figures/leap_frog.png Graphic file (type png)
 <use particle_in_cell/figures/leap_frog.png>
 Package pdftex.def Info: particle_in_cell/figures/leap_frog.png  used on input line 66.
 (pdftex.def)             Requested size: 290.22107pt x 140.3314pt.
- [33] [34 <./particle_in_cell/figures/leap_frog.png>]
-<particle_in_cell/figures/boris_rotation.png, id=219, 507.8975pt x 284.06125pt>
+ [50] [51 <./particle_in_cell/figures/leap_frog.png>]
+<particle_in_cell/figures/boris_rotation.png, id=309, 507.8975pt x 284.06125pt>
 File: particle_in_cell/figures/boris_rotation.png Graphic file (type png)
 <use particle_in_cell/figures/boris_rotation.png>
 Package pdftex.def Info: particle_in_cell/figures/boris_rotation.png  used on input line 97.
 (pdftex.def)             Requested size: 290.22107pt x 162.324pt.
- [35 <./particle_in_cell/figures/boris_rotation.png>]
-<particle_in_cell/figures/bilinear_interpotation_to_particle.png, id=225, 628.3475pt x 588.1975pt>
+ [52 <./particle_in_cell/figures/boris_rotation.png>]
+<particle_in_cell/figures/bilinear_interpotation_to_particle.png, id=314, 628.3475pt x 588.1975pt>
 File: particle_in_cell/figures/bilinear_interpotation_to_particle.png Graphic file (type png)
 <use particle_in_cell/figures/bilinear_interpotation_to_particle.png>
 Package pdftex.def Info: particle_in_cell/figures/bilinear_interpotation_to_particle.png  used on input line 137.
 (pdftex.def)             Requested size: 266.03474pt x 249.03375pt.
- [36 <./particle_in_cell/figures/bilinear_interpotation_to_particle.png>] [37] [38]
-<particle_in_cell/figures/adi.png, id=236, 1624.0675pt x 751.80875pt>
+ [53 <./particle_in_cell/figures/bilinear_interpotation_to_particle.png>] [54] [55]
+<particle_in_cell/figures/adi.png, id=326, 1624.0675pt x 751.80875pt>
 File: particle_in_cell/figures/adi.png Graphic file (type png)
 <use particle_in_cell/figures/adi.png>
 Package pdftex.def Info: particle_in_cell/figures/adi.png  used on input line 214.
 (pdftex.def)             Requested size: 483.69687pt x 223.90392pt.
- [39 <./particle_in_cell/figures/adi.png>] [40]
-<particle_in_cell/figures/null_collision_option_1.png, id=247, 555.07375pt x 419.5675pt>
+ [56 <./particle_in_cell/figures/adi.png>] [57]
+<particle_in_cell/figures/null_collision_option_1.png, id=335, 555.07375pt x 419.5675pt>
 File: particle_in_cell/figures/null_collision_option_1.png Graphic file (type png)
 <use particle_in_cell/figures/null_collision_option_1.png>
 Package pdftex.def Info: particle_in_cell/figures/null_collision_option_1.png  used on input line 265.
@@ -1003,25 +1122,17 @@ Package pdftex.def Info: particle_in_cell/figures/null_collision_option_1.png  u
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[41]) (./xoopic/xoopic.tex [42 <./particle_in_cell/figures/null_collision_option_1.png>]
+[58]) (./xoopic/xoopic.tex [59 <./particle_in_cell/figures/null_collision_option_1.png>]
 Appendix B.
-[43
+[60
 
-]
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 21.
-LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 21.
-
-Underfull \vbox (badness 3895) has occurred while \output is active []
-
- [44] [45] [46]
-<xoopic/figures/circuit.png, id=269, 594.22pt x 409.53pt>
+] [61] [62] [63]
+<xoopic/figures/circuit.png, id=356, 594.22pt x 409.53pt>
 File: xoopic/figures/circuit.png Graphic file (type png)
 <use xoopic/figures/circuit.png>
 Package pdftex.def Info: xoopic/figures/circuit.png  used on input line 73.
 (pdftex.def)             Requested size: 285.37938pt x 196.68465pt.
-<xoopic/figures/circuit_vi_graph.png, id=270, 885.3075pt x 505.89pt>
+<xoopic/figures/circuit_vi_graph.png, id=357, 885.3075pt x 505.89pt>
 File: xoopic/figures/circuit_vi_graph.png Graphic file (type png)
 <use xoopic/figures/circuit_vi_graph.png>
 Package pdftex.def Info: xoopic/figures/circuit_vi_graph.png  used on input line 86.
@@ -1030,8 +1141,8 @@ Package pdftex.def Info: xoopic/figures/circuit_vi_graph.png  used on input line
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[47 <./xoopic/figures/circuit.png>]
-<xoopic/figures/circuit_general_case.png, id=275, 835.12pt x 917.4275pt>
+[64 <./xoopic/figures/circuit.png>]
+<xoopic/figures/circuit_general_case.png, id=362, 835.12pt x 917.4275pt>
 File: xoopic/figures/circuit_general_case.png Graphic file (type png)
 <use xoopic/figures/circuit_general_case.png>
 Package pdftex.def Info: xoopic/figures/circuit_general_case.png  used on input line 101.
@@ -1040,14 +1151,8 @@ Package pdftex.def Info: xoopic/figures/circuit_general_case.png  used on input 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \vbox (badness 3417) has occurred while \output is active []
-
- [48 <./xoopic/figures/circuit_vi_graph.png>] [49 <./xoopic/figures/circuit_general_case.png>] [50] [51]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [52]
-<xoopic/figures/circuit_test.png, id=294, 558.085pt x 417.56pt>
+[65 <./xoopic/figures/circuit_vi_graph.png>] [66 <./xoopic/figures/circuit_general_case.png>] [67] [68] [69]
+<xoopic/figures/circuit_test.png, id=381, 558.085pt x 417.56pt>
 File: xoopic/figures/circuit_test.png Graphic file (type png)
 <use xoopic/figures/circuit_test.png>
 Package pdftex.def Info: xoopic/figures/circuit_test.png  used on input line 246.
@@ -1056,11 +1161,8 @@ Package pdftex.def Info: xoopic/figures/circuit_test.png  used on input line 246
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \vbox (badness 5331) has occurred while \output is active []
-
- [53]
-<xoopic/figures/test_1_error.png, id=298, 699.61375pt x 256.96pt>
+[70]
+<xoopic/figures/test_1_error.png, id=385, 699.61375pt x 256.96pt>
 File: xoopic/figures/test_1_error.png Graphic file (type png)
 <use xoopic/figures/test_1_error.png>
 Package pdftex.def Info: xoopic/figures/test_1_error.png  used on input line 278.
@@ -1069,13 +1171,13 @@ Package pdftex.def Info: xoopic/figures/test_1_error.png  used on input line 278
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[54 <./xoopic/figures/circuit_test.png>]
-<xoopic/figures/test_1_bigger_error.png, id=303, 686.565pt x 252.945pt>
+[71 <./xoopic/figures/circuit_test.png>]
+<xoopic/figures/test_1_bigger_error.png, id=390, 686.565pt x 252.945pt>
 File: xoopic/figures/test_1_bigger_error.png Graphic file (type png)
 <use xoopic/figures/test_1_bigger_error.png>
 Package pdftex.def Info: xoopic/figures/test_1_bigger_error.png  used on input line 287.
 (pdftex.def)             Requested size: 483.69687pt x 178.20274pt.
-<xoopic/figures/test_1_error_comparison.png, id=304, 624.3325pt x 261.97874pt>
+<xoopic/figures/test_1_error_comparison.png, id=391, 624.3325pt x 261.97874pt>
 File: xoopic/figures/test_1_error_comparison.png Graphic file (type png)
 <use xoopic/figures/test_1_error_comparison.png>
 Package pdftex.def Info: xoopic/figures/test_1_error_comparison.png  used on input line 294.
@@ -1084,8 +1186,8 @@ Package pdftex.def Info: xoopic/figures/test_1_error_comparison.png  used on inp
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[55 <./xoopic/figures/test_1_error.png> <./xoopic/figures/test_1_bigger_error.png>]
-<xoopic/figures/circuit_test_2.png, id=310, 624.3325pt x 417.56pt>
+[72 <./xoopic/figures/test_1_error.png> <./xoopic/figures/test_1_bigger_error.png>]
+<xoopic/figures/circuit_test_2.png, id=397, 624.3325pt x 417.56pt>
 File: xoopic/figures/circuit_test_2.png Graphic file (type png)
 <use xoopic/figures/circuit_test_2.png>
 Package pdftex.def Info: xoopic/figures/circuit_test_2.png  used on input line 307.
@@ -1094,13 +1196,13 @@ Package pdftex.def Info: xoopic/figures/circuit_test_2.png  used on input line 3
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[56 <./xoopic/figures/test_1_error_comparison.png> <./xoopic/figures/circuit_test_2.png>] [57] [58]
-<xoopic/figures/test_2_error.png, id=323, 698.61pt x 253.94875pt>
+[73 <./xoopic/figures/test_1_error_comparison.png> <./xoopic/figures/circuit_test_2.png>] [74] [75]
+<xoopic/figures/test_2_error.png, id=410, 698.61pt x 253.94875pt>
 File: xoopic/figures/test_2_error.png Graphic file (type png)
 <use xoopic/figures/test_2_error.png>
 Package pdftex.def Info: xoopic/figures/test_2_error.png  used on input line 369.
 (pdftex.def)             Requested size: 483.69687pt x 175.8293pt.
-) (/Users/prateepkasinathan/Documents/University/PhD/Thesis/thesis/.texpadtmp/thesis.bbl [59 <./xoopic/figures/test_2_error.png>]
+) (/Users/prateepkasinathan/Documents/University/PhD/Thesis/thesis/.texpadtmp/thesis.bbl [76 <./xoopic/figures/test_2_error.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 8--11
 []\OT1/cmr/m/n/12 ``Inventory of u.s. green-house gas emis-sions and sinks | US EPA,
  []
@@ -1110,22 +1212,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--11
 \OT1/cmr/m/n/12 url=https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-
  []
 
-[60
+[77
 
-] [61] [62]) [63] (/Users/prateepkasinathan/Documents/University/PhD/Thesis/thesis/.texpadtmp/thesis.aux) ) 
+] [78] [79] [80] [81] [82])
+
+Package natbib Warning: There were undefined citations.
+
+[83] (/Users/prateepkasinathan/Documents/University/PhD/Thesis/thesis/.texpadtmp/thesis.aux) ) 
 Here is how much of TeX's memory you used:
- 26880 strings out of 492616
- 532560 string characters out of 6129480
- 571340 words of memory out of 5000000
- 30338 multiletter control sequences out of 15000+600000
+ 27070 strings out of 492616
+ 537927 string characters out of 6129480
+ 572052 words of memory out of 5000000
+ 30511 multiletter control sequences out of 15000+600000
  547662 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,69p,1096b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 62i,12n,69p,1154b,525s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on /Users/prateepkasinathan/Documents/University/PhD/Thesis/thesis/.texpadtmp/thesis.pdf (73 pages, 2999067 bytes).
+Output written on /Users/prateepkasinathan/Documents/University/PhD/Thesis/thesis/.texpadtmp/thesis.pdf (95 pages, 6044357 bytes).
 PDF statistics:
- 408 PDF objects out of 1000 (max. 8388607)
- 228 compressed objects within 3 object streams
+ 504 PDF objects out of 1000 (max. 8388607)
+ 275 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 223 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 303 words of extra memory for PDF output out of 10000 (max. 10000000)
 

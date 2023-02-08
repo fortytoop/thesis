@@ -3,11 +3,9 @@
 
 Plasma is a fundamental state of matter, along with solid, liquid, and gas. It has similar characteristics to gases, where it is compressible and does not conform to a specific shape; however the key difference is that plasmas are highly electrically conductive, even capable of producing their own magnetic field. This is because plasmas contain a large number of positive ions that interact in a `sea' of free-moving electrons.
 
-\section{Plasma Discharge}
+There are two primary methods to generate plasma. The first is via extreme heating of a gas whereby the electrons gain sufficient energy to escape the electromagnetic force of the nucleus. The most obvious example of this is in stars where the gases within reach temperatures millions of degrees Kelvin, giving rise to nuclear fusion. The other method, which is the main focus of this report, is the exposure of a gas to a large electric field. This in turn ignites the plasma in a process described in the rest of this chapter. An everyday example of this is lightning, where charges build up between the clouds and the ground, which in turn causes the potential difference between the two to grow until the air in between breaks down.
 
-Plasmas are generated in one of two primary ways. The first is via extreme heating of a gas whereby the electrons gain sufficient energy to escape the electromagnetic force of the nucleus. The most obvious example of this is in stars where the gases within reach temperatures millions of degrees Kelvin, giving rise to nuclear fusion. The other method, which is the main focus of this report, is the exposure of a gas to a large electric field. This in turn ignites the plasma in a process described in the rest of this chapter. An everyday example of this is lightning, where charges build up between the clouds and the ground, which in turn causes the potential difference between the two to grow until the air in between breaks down.
-
-\subsection{Paschen's Law}
+\section{Paschen's Law}
 \label{sec:paschens_law}
 
 The voltage necessary to break down a gas is given by Paschen's law. It states that the breakdown voltage is a function of two parameters \cite{Lieberman2005}: the pressure of the gas and the distance between the electrodes (referred to as the gap length). Specifically, the breakdown voltage is given by the product of these two parameters.
@@ -36,7 +34,7 @@ However it is much easier to understand Paschen's law pictorially. Figure \ref{f
 	\label{fig:pashen_curve}
 \end{figure}
 
-\subsection{DC Discharge}
+\section{DC Discharge}
 
 Consider a circuit as seen in figure \ref{fig:basic_circuit}. Two parallel electrodes with a DC voltage applied, and a neutral gas contained within a chamber. As the resistance of the variable resistor is decreased, which in turn increases the current through the plasma, one would observe three distinct discharge regions \cite{Gudmundsson2017}, observed in figure \ref{fig:dc_discharge}.
 
@@ -73,15 +71,63 @@ For the purposes of this project, the arc discharge region will be avoided. The 
 
 In a glow discharge there are typical three spatial regions present. These include a \textit{cathode dark space}, a \textit{negative glow} region, and the \textit{anode dark space} \cite{Gudmundsson2017, Bogaerts2002}. This can be observed in figure \ref{fig:glow_discharge}, that shows the potential in each region. Do note, as the distance between the electrodes is increased, additional regions may develop, however these three regions will always persist. The dark space regions are called \textit{sheaths} while the negative glow region is known as the \textit{bulk plasma}. Generally, the sheaths on the cathode will be much larger than that of the anode, as it corresponds to the region where electrons are being accelerated before gaining sufficient energy to cause ionising collisions. In contrast, the anode sheaths form to limit the electron current to the anode, maintaining current continuity over the discharge. Finally, the bulk plasma is the quasi-neutral region that contains the ions and electrons of the plasma.
 
-\subsection{AC Discharge}
+\subsection{DC Discharge Sources}
+\subsubsection{Parallel Plate Designs}
 
-If the voltage source in the circuit of figure \ref{fig:basic_circuit} were to be replaced with a low frequency AC source, the discharge behaviour would be almost identical to that of the DC discharge, with the caveat that the roles of the electrodes alternating between cathode and anode. This is provided that the half time period of an AC cycle is larger than the duration for ions and electrons to move across the electrodes \cite{Bogaerts2002}.
+The simplest form of a DC plasma source is the \textit{parallel plate design}. As the name suggests, this design involves an anode and a cathode which are separated by a gap in which the plasma is formed. This is the design shown in figure \ref{fig:basic_circuit}.
+
+An example of a device using this design can be seen in figure \ref{fig:parallel_plate_design} of a molecular emission detector by Eijkel et al\cite{Eijkel1999}. The plasma behaviour of such a design is simply governed by Paschen's law. 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\linewidth]{chapter_2/figures/parallel_plate.jpeg}
+	\caption{A DC plasma from molecular emission detector on chip \cite{Eijkel1999}.}
+	\label{fig:parallel_plate_design}
+\end{figure}
+
+Typically, parallel plate designs are favoured when simplicity and low cost are top priorities. There are some use cases such as plasma immersion ion implantation \cite{Ueda1999} and optical emission detectors \cite{Eijkel1999} where this design proves useful. However in most scenarios, this design is fundamentally flawed due to erosion of the electrode. This erosion is caused by the ion bombardment, which is a necessary process to generate secondary emission electrons; a vital mechanism to sustain the plasma discharge. As such, electrode erosion limits the operating duration of a device with such a design.   
+
+\subsubsection{Hollow Cathode Designs}
+
+The \textit{hollow cathode design} is a commonly used alternative to the basic parallel plate geometry. Hollow cathodes are typically cylindrical in nature, where the anode remains the same but the cathode has been replaced with cup-like shape that is hollow in the centre (hence the name). An illustration of this can be seen in figure \ref{fig:hollow_cathode_design}. 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.6\linewidth]{chapter_2/figures/hollow_cathode_illustration.png}
+	\caption{A simplified illustration of a hollow cathode design \cite{Becker2006}.}
+	\label{fig:hollow_cathode_design}
+\end{figure}
+ 
+ Such a design in favourable over the parallel plate geometry because of a phenomenon known as the \textit{hollow cathode effect}. There are multiple factors that contribute to the hollow cathode effect. However, it is generally agreed upon that the primary mechanism is caused by the pendulum effect of electrons. Electrons, generated via secondary-emissions from the cathode, will tend to oscillate back and forth between the cathode walls. This motions of electrons increases the likelihood that any given one will undergo an ionising collision with a neutral gas atom \cite{Arslanbekov1998}.
+ 
+ While the hollow cathode geometry does obey Paschen's law, an additional parameter needs to be taken into account. This new parameter is the diameter of the aperture of the cathode, shown in figure \ref{fig:hollow_cathode_design} as $D$. A general rule of thumb is that the product of the pressure and cathode aperture ($pD$) should be in the range of 1-10 Torr cm \cite{watson_gewartewski_1965}. When the $pD$ value is too large, the pendulum effect of the electrons are lost since they do not have sufficient energy to travel to the opposite end of the cathode. In contrast, when the $pD$ value is too small, the plasma tends to form outside the hollow cathode structure as the diameter of the aperture is comparable to the Debye length \cite{Iza2008}.
+ 
+ Because of this, hollow cathodes have several benefits compared to their parallel plate counterparts. The most notable is that they have a lower breakdown voltage, particularly at lower gas pressures \cite{Kolobov2015, Eichhorn1993}. Additionally, they generally produce a higher current density for a given operating voltage \cite{Kolobov2015, Pillow1981}, as illustrated in figure \ref{fig:current_density_hollow_cathode}. 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.95\linewidth]{chapter_2/figures/current_density_hollow_cathode.png}
+	\caption{A comparison of the voltage vs current curve for a hollow cathode geometry (solid line) and a typical parallel plate geometry (dashed line)\cite{watson_gewartewski_1965}.}
+	\label{fig:current_density_hollow_cathode}
+\end{figure}
+% TODO: Fill out caption
+
+However, there are still several drawbacks to the hollow cathode. For one, the pendulum effect of electrons also applies to the ions, which means greater bombardment of the cathode, thus leading to faster erosion. The ion bombardment also as the side effect of causing increased heating of the cathode, resulting in thermionic emission. While this increases the electron emission, this also further contributes to the cathode erosion. 
+
+Despite this, advancements and developments of the hollow cathode geometry have mitigated this by extending the life and reliability of the cathode. As such, hollow cathode designs are found in research areas such as electron beam guns \cite{Kornilov2009, YuBakeev2018} for welding and 3D printing of metals, and electrostatic propulsion \cite{Goebel2021} for spacecraft thrusters.
+
+
+
+\section{AC Discharge}
+
+If the voltage source in the circuit of figure \ref{fig:basic_circuit} were to be replaced with a low frequency AC source, the discharge behaviour would be almost identical to that of the DC discharge, with the caveat that the roles of the electrodes alternating between cathode and anode. This is provided that the half time period of an AC cycle is larger than the duration for ions and electrons to move across the electrodes \cite{Bogaerts2002}. 
 
 However, as the frequency of the AC source is increased, typically to the region of radio or microwave frequencies, there is an asymmetry between the movement of the ions and electrons. The electrons are capable of responding to the change in the electric fields relatively quickly; however, due to the ions being significantly heavier than electrons, they have a much slower response time that is restricted by their inertia \cite{Chabert2011}.
 
-Since the ions cannot respond to the changing electric field quick enough, they respond to the time-averaged field thus are accelerated against both electrodes cross the sheath. On the other hand, the electrons begin accelerating through the bulk plasma towards the anode during the first half period of the AC signal. Then as the direction of the electric field reverses in the second half period of the signal, the positions of the anode and cathode flip, and any electron that has not collided with the original anode (which is now the cathode), gets accelerated through the bulk plasma towards the new anode. This oscillating behaviour confines the electrons, resulting in an increased likelihood of ionising collisions with the neutral background gas. As the frequency of the AC source is increased, more electrons become trapped in this regime, hence it is no surprise that the breakdown voltage of the plasma decreases \cite{Chu1992}. This can be seen in figure \ref{fig:ac_breakdown}
+Since the ions cannot respond to the changing electric field quick enough, they respond to the time-averaged field thus are accelerated against both electrodes cross the sheath. On the other hand, the electrons begin accelerating through the bulk plasma towards the anode during the first half period of the AC signal. Then as the direction of the electric field reverses in the second half period of the signal, the positions of the anode and cathode flip, and any electron that has not collided with the original anode (which is now the cathode), gets accelerated through the bulk plasma towards the new anode. This oscillating behaviour confines the electrons, resulting in an increased likelihood of ionising collisions with the neutral background gas. This mechanism is similar to the pendulum effect of the electrons in hollow cathode DC discharges. As the frequency of the AC source is increased, more electrons become trapped in this regime, hence it is no surprise that the breakdown voltage of the plasma decreases \cite{Chu1992}. This can be seen in figure \ref{fig:ac_breakdown}
 
 Astute readers may notice the minimal role of the secondary emission of electrons plays in the AC discharge. Because of the reduced of ion bombardments, there is less erosion on the electrodes, which increases its overall lifetime. 
+
 
 \begin{figure}[h!]
 	\centering
@@ -90,4 +136,109 @@ Astute readers may notice the minimal role of the secondary emission of electron
 	\label{fig:ac_breakdown}
 \end{figure} 
 
+\pagebreak
+
+
+\subsection{AC Discharge Sources}
+\subsubsection{Capacitively Coupled Plasma Designs}
+
+\textit{Capacitively coupled plasma} (CCP) reactors are one of the simpler designs for AC discharges. The design is very similar to the parallel plate geometry seen in figure \ref{fig:basic_circuit}, however rather than a DC power supply, one or more radio frequency (RF) sources are used. Additionally, a capacitor can be added to eliminate and DC bias introduced by the source or matching networks. An example of a CCP design can be seen in figure \ref{fig:CCP_reactor}. These reactors typically operate at the approved ISM frequency of 13.56 MHz, however frequencies up to 100 MHz have been used as demonstrated by Sharma et al \cite{Sharma2020}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.6\linewidth]{chapter_2/figures/CCP_reactor.png}
+	\caption{Illustration of a capacitively coupled plasma (CCP) experimental setup \cite{Ohtsu2018}.}
+	\label{fig:CCP_reactor}
+\end{figure} 
+
+CCP sources are primarily used in the semiconductor industry for thin film deposition and etching. This is due to the the simple design which can be scaled fairly inexpensively. Another benefit of CCPs is that the electron temperature is fairly uniform across the entire reactor, as seen in figure \ref{fig:ccp_electron_temp}.
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.6\linewidth]{chapter_2/figures/ccp_electron_temp.jpg}
+	\caption{Cycle averaged electron temperature in a CCP reactor \cite{esgee_tech_2017}.}
+	\label{fig:ccp_electron_temp}
+\end{figure} 
+
+However, the biggest drawbacks with CCP designs has to do with the limited plasma density, typically on the order of $10^{9}$ to $10^{10}$ cm$^{-3}$ \cite{Denpoh2021, }. Simply increasing the input power does not translate to an increased plasma density due to energy loss by ions \cite{Iza2008}. Increasing the frequency can help with reducing the breakdown voltage and increasing density, however this is discussed later in this chapter.
+
+Solutions for this include dual frequency driven CCPs such as the ones by Lee and Hong \cite{Lee2021}. The idea behind such a design is that the higher frequency source controls the plasma density while the lower frequency source controls the energy of the ions. Other solutions including adding magnets and incorporating a hollow cathode shaped electrode to CCPs to confine the energetic electrons near the electrode \cite{Ohtsu2018}.
+
+\subsubsection{Inductively Coupled Plasma Designs}
+
+Another type of AC discharge source is the \textit{inductively coupled plasma} (ICP) design. Unlike other reactor designs, ICPs do not have electrodes. Rather it relies on the electric current generated by electromagnetic induction. This changing magnetic field is typically achieved with the use of a solenoid; an example of this is seen in figure \ref{fig:ICP_reactor}. 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.7\linewidth]{chapter_2/figures/ICP_reactor.png}
+	\caption{Schematic of inductively coupled plasma (ICP) torches \cite{Yu2021}.}
+	\label{fig:ICP_reactor}
+\end{figure} 
+
+Because of the lack of electrodes, ICP reactors do not experience electrode erosion from ion bombardment or contamination of feed gas from sputtering. Another advantage of the ICP design is that when compared to CCPs, they tend to generate a higher plasma density, especially at lower pressures. A comparison of ICP and CCP properties was done by Sakamoto et al \cite{Sakamoto2009ComparisonOP}, seen in figure \ref{fig:CCP_vs_ICP}. The results show that the electron density of ICPs were an order of magnitude greater than that of CCPs, though this did come with a drop in electron temperature. 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\linewidth]{chapter_2/figures/CCP_vs_ICP_reactor.png}
+	\caption{Comparison of plasma parameters between CCP and ICP reactor \cite{Sakamoto2009ComparisonOP}. The two left most graphs (a, c) are the results from a CCP reactor, while the two right most graphs (b, d) are the results of the ICP reactor. The top two graphs (a, b) show the radial distribution of electron temperatures for a CCP and ICP reactor respectively. The bottom two graphs (c, d) show the distribution of electron density for a CCP and ICP reactor respectively.}
+	\label{fig:CCP_vs_ICP}
+\end{figure} 
+
+
+However, it has been observed that this advantage of plasma density does not necessarily continue as the size of ICPs are miniaturised. This is because the rate of decrease of inductance in the coil is much higher when compared to the parasitic resistance \cite{Iza2008}. Another downside is that ICPs are only viable at lower pressures. This is because the current in the coil required to sustain the plasma is quite high at atmospheric pressures, thus pressures between $0.1–10$ Torr are typically used \cite{Hopwood2004}.
+
+Much like CCP reactors, ICP reactors are also used in the semiconductor industry, however they each serve different functions. For example, ICPs are used for etching of conductors whereas CCPs are used for the etching of dielectrics \cite{Kruger2020}. Another example of ICP sources are in ICP mass spectrometry, where they produce better precision compared to other techniques.
+
+
+\subsubsection{Dielectric Barrier Discharge Designs}
+
+\textit{Dielectric barrier discharge} (DBD), sometimes referred to as silent discharge, is a fairly common design used on a large industrial scale. A typical DBD design can be seen in figure \ref{fig:dbd_configuartions}. Much like the parallel plate discharge, there are two electrodes, however DBD designs require the presence of at least one dielectric material in the discharge gap. 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=\linewidth]{chapter_2/figures/dbd_configurations.png}
+	\caption{Examples of different Dielectric Barrier Discharge (DBD) designs \cite{Kogelschatz2003}. The left most (a) and right most (c) drawings show at least one dielectric on the electrodes, while the middle (b) illustrates a dielectric in the discharge gap, but not touching the electrodes.}
+	\label{fig:dbd_configuartions}
+\end{figure} 
+
+Due to the dielectric being an insulator, no conduction current can flow between the electrodes, strictly limiting DBDs to AC operation. This layer of dielectric performs two functions. The first is that it protects the electrodes from ion bombardments, preventing erosion. Secondarily, the dielectric plays a role in limiting the average current density of the discharge, thus behaving as a ballast to prevent the transition of glow discharge to arc discharge \cite{Kogelschatz2003}.  
+
+Most DBD devices operate in the kHz frequency range but experiments have been performed for reactors up to approximately the 10 MHz range \cite{Tingay2014}. This is because the dielectric constant of the substrate decreases at high frequencies, making it less effective at limiting the current \cite{Kogelschatz2003}.  
+
+DBD designs were frequently used in plasma display panels, which were fairly ubiquitous in televisions until about a decade ago. Nonetheless, DBD reactors still have applications ranging from surface treatment of materials to the gas treatment such as generation of ozone from air \cite{Brandenburg2017}.
+
+\subsubsection{Microwave Discharge Designs}
+\label{subsec:microwave_discharge}
+
+All previous examples of AC discharges discussed so far have operated in the RF region of the electromagnetic (EM) spectrum. While there are various standard for radio bands set by agencies such as the International Telecommunication Union (ITU) or the Institute of Electrical and Electronics Engineers (IEEE), it is convention to class frequencies above 300 MHz as microwave. 
+
+The microwave plasma sources commonly used in industry tend to be fairly large devices. One of the most common of these devices generate the plasma via \textit{surface wave discharge} where the microwaves are propagated by a wave guide \cite{Toyoda2020}. Yet another type of microwave source is the \textit{electron cyclotron resonance} plasma reactor, which utilise magnets to induce an acceleration of the electrons via the Lorentz force, thus enabling it to achieve high plasma densities \cite{Toyoda2020}. An illustration of both these methods can be seen in figure \ref{fig:surface_wave_discharge} and \ref{fig:electron_cyclotron_resonance} respectively. 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.55\linewidth]{chapter_2/figures/surface_wave_discharge.png}
+	\caption{Schematic of a surface wave discharge plasma source \cite{Toyoda2020}.}
+	\label{fig:surface_wave_discharge}
+\end{figure} 
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.55\linewidth]{chapter_2/figures/electron_cyclotron_resonance.png}
+	\caption{Schematic of an electron cyclotron resonance plasma source \cite{Toyoda2020}.}
+	\label{fig:electron_cyclotron_resonance}
+\end{figure} 
+
+While these larger microwave plasma reactors are very efficient, their size and costs make it unsuitable for testing in a laboratory setting. Miniaturising such designs are also unfeasible as the size of the device determines the frequency of operation; for example a source that is approximately 1 cm would require a power supply capable at operating at around 30 GHz. 
+
+However, smaller plasma sources have been developed that utilise stripline technologies that are capable of generating using RF and microwave frequencies \cite{Pollak2007, Iza2003}. Examples of these microstrip plasma sources can be seen in figure \ref{fig:microstrip_microwave_discharge}. 
+
+
+\begin{figure}[h!]
+	\centering
+	\includegraphics[width=0.8\linewidth]{chapter_2/figures/microstrip_microwave_discharge.jpg}
+	\caption{Examples of different types of microstrip plasma sources \cite{Iza2008}. The top three designs (a, b, c) are linear microstrip resonators, while (d) shows a microstrip split-ring resonator, and (e) illustrates a coaxial resonator.}
+	\label{fig:microstrip_microwave_discharge}
+\end{figure} 
+
+Since dimensions of the plasma formed by these microstrip sources are much smaller compared to the excitation wavelength, they can essentially be modelled as a CCP source. But since the microstrip sources operates at microwave frequencies, it is able to take advantage of the efficiency gains obtained by using higher frequencies as shown in figure \ref{fig:ac_breakdown}, and has also been shown to increase the plasma density \cite{Surendra1998}.
 
