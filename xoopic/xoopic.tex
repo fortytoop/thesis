@@ -1,4 +1,4 @@
-\chapter{XOOPIC}
+\chapter{Simulation Software}
 \label{ch:xoopic}
 
 
@@ -7,9 +7,7 @@ The PIC simulation program used in this project is called \textit{X11 object-ori
 
 \section{Overview}
 
-XOOPIC is primarily a command-line-interface (CLI) program but support X11 windowing to visualise certain diagnostics in real time. Some examples of these real time diagnostics include: average kinetic energies of the particles, 
-%%TODO check this phrase
-phase-space plots of the position and velocities of the various particle species,
+XOOPIC is primarily a command-line-interface (CLI) program but support X11 windowing to visualise certain diagnostics in real time. Some examples of these real time diagnostics include: average kinetic energies of the particles, phase-space plots of the position and velocities of the various particle species,
 and the electric field vectors at the simulation grid. While important for determining the behaviour of the plasma system, running the simulation with these windows does significantly reduce its performance. Therefore, XOOPIC's in-built visualisations are primarily used to observe the snapshot behaviour of the simulated system, whilst any diagnostic information required for further analysis is typically written into output files.
 
 Despite not running with X11 windowing, running these simulations continuously takes a long period of time (typically on the order of days to weeks) before they settle into a steady state. This is because the simulations have to be run at very small time steps in order to be stable (see section 4.1.2). 

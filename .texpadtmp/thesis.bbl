@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{ipcc_2022}
 IPCC, ``Climate change: a threat to human wellbeing and health of the planet.
@@ -13,22 +13,48 @@ IPCC, ``Climate change: a threat to human wellbeing and health of the planet.
 H.~Ritchie and M.~Roser, ``{CO}$_2$ and greenhouse gas emissions,'' {\em Our
   World in Data}, May 2020.
 
-\bibitem{ross_et_al_2019}
-M.~B. Ross, P.~De~Luna, Y.~Li, C.-T. Dinh, D.~Kim, P.~Yang, and E.~H. Sargent,
-  ``Designing materials for electrochemical carbon dioxide recycling,'' {\em
-  Nature Catalysis}, vol.~2, p.~648–658, Jul 2019.
+\bibitem{IEA2020}
+{International Energy Agency (IEA)}, {\em {CCUS in Clean Energy Transitions}}.
+\newblock Paris: IEA, 2020.
+\newblock Licence: CC BY 4.0.
 
-\bibitem{arnold_et_al_2018}
-U.~Arnold, T.~Brück, A.~De~Palmenaer, and K.~Kuse, ``Carbon capture and
-  sustainable utilization by algal polyacrylonitrile fiber production: Process
-  design, techno-economic analysis, and climate related aspects,'' {\em
-  Industrial and Engineering Chemistry Research}, vol.~57, p.~7922–7933, May
-  2018.
+\bibitem{brevikccs2024mechanical}
+{Heidelberg Materials}, ``Brevik ccs reaches mechanical completion,'' Dec.
+  2024.
+\newblock Accessed: 2025-02-03.
+
+\bibitem{An2023}
+K.~An, K.~Li, C.-M. Yang, J.~Brechtl, and K.~Nawaz, ``A comprehensive review on
+  regeneration strategies for direct air capture,'' {\em Journal of CO2
+  Utilization}, vol.~76, p.~102587, 2023.
+
+\bibitem{Khunda2023}
+D.~Khunda, S.~Li, N.~Cherkasov, M.~Rishard, A.~Chaffee, and E.~Rebrov, ``Effect
+  of temperature on the co2 splitting rate in a dbd microreactor,'' {\em
+  Reaction Chemistry and Engineering}, vol.~8, pp.~2223--2233, May 9 2023.
+
+\bibitem{mahy2024basicstellarobservables}
+L.~Mahy, ``Basic stellar observables,'' 2024.
+
+\bibitem{Chaudhary16}
+K.~Chaudhary, S.~Z.~H. Rizvi, and J.~Ali, ``Laser-induced plasma and its
+  applications,'' in {\em Plasma Science and Technology} (T.~Mieno, ed.),
+  ch.~11, Rijeka: IntechOpen, 2016.
 
 \bibitem{Lieberman2005}
 M.~A. Lieberman and A.~J. Lichtenberg, {\em {Principles of Plasma Discharges
   and Materials Processing: Second Edition}}.
 \newblock Wiley-Interscience, 2005.
+
+\bibitem{Molnar1951}
+J.~P. Molnar, ``Studies of $\ensuremath{\gamma}$-processes of electron emission
+  employing pulsed townsend discharges on a millisecond time scale,'' {\em
+  Phys. Rev.}, vol.~83, pp.~940--952, Sep 1951.
+
+\bibitem{Sorokin2023}
+I.~Sorokin and N.~Sergeev, ``Measurements of secondary electron emission yield
+  in the linear plasma simulator bpd-psi,'' {\em Vacuum}, vol.~217, p.~112528,
+  2023.
 
 \bibitem{Gudmundsson2017}
 J.~T. Gudmundsson and A.~Hecimovic, ``{Foundations of DC plasma sources},''
@@ -154,6 +180,12 @@ Y.~Sakamoto, S.~Maeno, N.~Tsubouchi, T.~Kasuya, and M.~Wada, ``Comparison of
   plasma parameters in ccp and icp processes appropriate for carbon nanotube
   growth,'' 2009.
 
+\bibitem{Hopwood2000}
+J.~Hopwood, O.~Minayeva, and Y.~Yin, ``Fabrication and characterization of a
+  micromachined 5 mm inductively coupled plasma generator,'' {\em Journal of
+  Vacuum Science and Technology B: Microelectronics and Nanometer Structures
+  Processing, Measurement, and Phenomena}, vol.~18, pp.~2446--2451, 09 2000.
+
 \bibitem{Hopwood2004}
 J.~Hopwood and F.~Iza, ``{Ultrahigh frequency microplasmas from 1 pascal to 1
   atmosphere},'' {\em Journal of Analytical Atomic Spectrometry}, vol.~19,
@@ -202,9 +234,13 @@ M.~Surendra and D.~B. Graves, ``{Capacitively coupled glow discharges at
   frequencies above 13.56 MHz},'' {\em Applied Physics Letters}, vol.~59,
   p.~2091, jun 1998.
 
-\bibitem{rayne_2008}
-S.~Rayne, ``Thermal carbon dioxide splitting: A summary of the peer-reviewed
-  scientific literature,'' {\em Nature Precedings}, Apr 2008.
+\bibitem{Pollak2008}
+J.~Pollak and M.~Moisan, ``Device and method for inactivation and/or
+  sterilization using plasma,'' U.S. Patent US7460225B2, January 2008.
+
+\bibitem{Karanassios2005}
+V.~Karanassios, ``Miniaturized source devices for optical and mass
+  spectrometry,'' E.U. Patent EP2109467A1, March 2005.
 
 \bibitem{jiang_xiao_kuznetsov_edwards_2010}
 Z.~Jiang, T.~Xiao, V.~L. Kuznetsov, and P.~P. Edwards, ``Turning carbon dioxide
@@ -216,10 +252,38 @@ Z.~Jiang, T.~Xiao, V.~L. Kuznetsov, and P.~P. Edwards, ``Turning carbon dioxide
 R.~Snoeckx and A.~Bogaerts, ``{Plasma technology-a novel solution for CO2
   conversion?},'' oct 2017.
 
+\bibitem{Centi2021}
+G.~Centi, S.~Perathoner, and G.~Papanikolaou, ``{Plasma assisted CO2 splitting
+  to carbon and oxygen: A concept review analysis},'' {\em Journal of CO2
+  Utilization}, vol.~54, p.~101775, dec 2021.
+
+\bibitem{Shin2017}
+K.~Shin, L.~Zhang, H.~An, H.~Ha, M.~Yoo, H.~M. Lee, G.~Henkelman, and H.~Y.
+  Kim, ``{Interface engineering for a rational design of poison-free bimetallic
+  CO oxidation catalysts},'' {\em Nanoscale}, vol.~9, pp.~5244--5253, apr 2017.
+
 \bibitem{pakhare_spivey_2014}
 D.~Pakhare and J.~Spivey, ``A review of dry (co2) reforming of methane over
   noble metal catalysts,'' {\em Chem. Soc. Rev.}, vol.~43, p.~7813–7837, Feb
   2014.
+
+\bibitem{Rezaei2006}
+M.~Rezaei, S.~M. Alavi, S.~Sahebdelfar, and Z.~F. Yan, ``{Syngas Production by
+  Methane Reforming with Carbon Dioxide on Noble Metal Catalysts},'' {\em
+  Journal of Natural Gas Chemistry}, vol.~15, pp.~327--334, dec 2006.
+
+\bibitem{Rostrup-Nielsen1993}
+J.~R. Rostrup-Nielsen and J.~H. {Bak Hansen}, ``{CO2-Reforming of Methane over
+  Transition Metals},'' {\em Journal of Catalysis}, vol.~144, pp.~38--49, nov
+  1993.
+
+\bibitem{Ma2009}
+J.~Ma, N.~Sun, X.~Zhang, N.~Zhao, F.~Xiao, W.~Wei, and Y.~Sun, ``{A short
+  review of catalysis for CO2 conversion},'' {\em Catalysis Today}, vol.~148,
+  pp.~221--231, nov 2009.
+
+\bibitem{etogas}
+E.~GmbH, ``Industrial 6.3 mw ptg plant (audi e-gas plant),'' 2017.
 
 \bibitem{the_sabatier_system}
 2011.
@@ -229,10 +293,89 @@ U.~Kogelschatz, ``Dielectric-barrier discharges: Their history, discharge
   physics, and industrial applications,'' {\em Plasma Chemistry and Plasma
   Processing}, vol.~23, no.~1, p.~1–46, 2003.
 
-\bibitem{spencer_gallimore_2010}
-L.~F. Spencer and A.~D. Gallimore, ``Efficiency of co2 dissociation in a
-  radio-frequency discharge,'' {\em Plasma Chemistry and Plasma Processing},
-  vol.~31, p.~79–89, Nov 2010.
+\bibitem{Bogaerts2020}
+A.~Bogaerts and G.~Centi, ``{Plasma Technology for CO2 Conversion: A Personal
+  Perspective on Prospects and Gaps},'' {\em Frontiers in Energy Research},
+  vol.~8, p.~533985, jul 2020.
+
+\bibitem{Chen18}
+G.~Chen, L.~Wang, T.~Godfroid, and R.~Snyders, ``Progress in plasma-assisted
+  catalysis for carbon dioxide reduction,'' in {\em Plasma Chemistry and Gas
+  Conversion} (N.~Britun and T.~Silva, eds.), ch.~4, Rijeka: IntechOpen, 2018.
+
+\bibitem{Hegemann2023}
+D.~Hegemann, ``{Plasma activation mechanisms governed by specific energy input:
+  Potential and perspectives},'' {\em Plasma Processes and Polymers}, vol.~20,
+  p.~2300010, may 2023.
+
+\bibitem{Ozkan2015}
+A.~Ozkan, T.~Dufour, G.~Arnoult, P.~{De Keyzer}, A.~Bogaerts, and F.~Reniers,
+  ``{CO2–CH4 conversion and syngas formation at atmospheric pressure using a
+  multi-electrode dielectric barrier discharge},'' {\em Journal of CO2
+  Utilization}, vol.~9, pp.~74--81, mar 2015.
+
+\bibitem{Bongers2015DevelopmentsIC}
+W.~A. Bongers, S.~Welzel, D.~van~den Bekerom, G.~F. W.~M. Frissen, G.~van
+  Rooij, A.~P.~H. Goede, M.~F. Graswinckel, P.~W.~C. Groen, N.~den Harder,
+  B.~van Heemert, T.~Minea, M.~van~de Sanden, M.~Leins, J.~Kopecki, A.~D.
+  Schulz, and M.~Walker, ``Developments in co2 dissociation using
+  non-equilibrium microwave plasma activation for solar fuels,'' 2015.
+
+\bibitem{Silva2014}
+T.~Silva, N.~Britun, T.~Godfroid, and R.~Snyders, ``{Optical characterization
+  of a microwave pulsed discharge used for dissociation of CO2},'' {\em Plasma
+  Sources Science and Technology}, vol.~23, p.~025009, mar 2014.
+
+\bibitem{Qin2018}
+Y.~Qin, G.~Niu, X.~Wang, D.~Luo, and Y.~Duan, ``{Status of CO2 conversion using
+  microwave plasma},'' {\em Journal of CO2 Utilization}, vol.~28, pp.~283--291,
+  dec 2018.
+
+\bibitem{Ramakers2015}
+M.~Ramakers, I.~Michielsen, R.~Aerts, V.~Meynen, and A.~Bogaerts, ``{Effect of
+  Argon or Helium on the CO2 Conversion in a Dielectric Barrier Discharge},''
+  {\em Plasma Processes and Polymers}, vol.~12, pp.~755--763, aug 2015.
+
+\bibitem{Jeroen_Jonkers_2003}
+J.~Jonkers, M.~van~de Sande, A.~Sola, A.~Gamero, and J.~van~der Mullen, ``On
+  the differences between ionizing helium and argon plasmas at atmospheric
+  pressure,'' {\em Plasma Sources Science and Technology}, vol.~12, p.~30, dec
+  2002.
+
+\bibitem{chen2017role}
+G.~Chen, N.~Britun, T.~Godfroid, M.-P. Delplancke-Ogletree, and R.~Snyders,
+  ``Role of plasma catalysis in the microwave plasma-assisted conversion of
+  co2,'' in {\em Green Chemical Processing and Synthesis}, IntechOpen London,
+  UK, 2017.
+
+\bibitem{Chun2017}
+S.~M. Chun, Y.~C. Hong, and D.~H. Choi, ``{Reforming of methane to syngas in a
+  microwave plasma torch at atmospheric pressure},'' {\em Journal of CO2
+  Utilization}, vol.~19, pp.~221--229, may 2017.
+
+\bibitem{Bruggeman2016}
+P.~J. Bruggeman, M.~J. Kushner, B.~R. Locke, J.~G. Gardeniers, W.~G. Graham,
+  D.~B. Graves, R.~C. Hofman-Caris, D.~Maric, J.~P. Reid, E.~Ceriani,
+  D.~{Fernandez Rivas}, J.~E. Foster, S.~C. Garrick, Y.~Gorbanev, S.~Hamaguchi,
+  F.~Iza, H.~Jablonowski, E.~Klimova, J.~Kolb, F.~Krcma, P.~Lukes, Z.~MacHala,
+  I.~Marinov, D.~Mariotti, S.~{Mededovic Thagard}, D.~Minakata, E.~C. Neyts,
+  J.~Pawlat, Z.~L. Petrovic, R.~Pflieger, S.~Reuter, D.~C. Schram,
+  S.~Schr{\"{o}}ter, M.~Shiraiwa, B.~Tarabov{\'{a}}, P.~A. Tsai, J.~R. Verlet,
+  T.~{Von Woedtke}, K.~R. Wilson, K.~Yasui, and G.~Zvereva, ``{Plasma-liquid
+  interactions: A review and roadmap},'' {\em Plasma Sources Science and
+  Technology}, vol.~25, p.~053002, sep 2016.
+
+\bibitem{Gorbanev2017}
+Y.~Gorbanev, D.~Leifert, A.~Studer, D.~O'Connell, and V.~Chechik, ``{Initiating
+  radical reactions with non-thermal plasmas},'' {\em Chemical Communications},
+  vol.~53, pp.~3685--3688, mar 2017.
+
+\bibitem{Golda2016}
+J.~Golda, J.~Held, B.~Redeker, M.~Konkowski, P.~Beijer, A.~Sobota, G.~Kroesen,
+  N.~S.~J. Braithwaite, S.~Reuter, M.~M. Turner, T.~Gans, D.~O'Connell, and
+  V.~{Schulz-Von Der Gathen}, ``{Concepts and characteristics of the ‘COST
+  Reference Microplasma Jet'},'' {\em Journal of Physics D: Applied Physics},
+  vol.~49, p.~084003, jan 2016.
 
 \bibitem{Xu2021}
 H.~Xu, M.~Shaban, S.~Wang, A.~Alkayal, D.~Liu, M.~G. Kong, F.~Plasser, B.~R.
@@ -263,6 +406,63 @@ H.~Wheeler, ``Transmission-line properties of a strip on a dielectric sheet on
 J.~P. Verboncoeur, A.~B. Langdon, and N.~T. Gladd, ``{An object-oriented
   electromagnetic PIC code},'' {\em Computer Physics Communications}, vol.~87,
   pp.~199--211, may 1995.
+
+\bibitem{Neutrium}
+Neutrium, ``Calculation of flow through nozzle and orifices,'' 2015.
+
+\bibitem{EdgarONTO}
+E.~Buckingham, ``On the orifice meter; the expansion factor for gases,''
+
+\bibitem{Woodward2014}
+J.~Woodward, ``Source modeling – discharge rates,'' in {\em Reference Module
+  in Chemistry, Molecular Sciences and Chemical Engineering}, Elsevier, jan
+  2014.
+
+\bibitem{oo_spectrometer}
+O.~Optics, {\em USB2000+ Fiber Optic Spectrometer Installation and Operation
+  Manual}.
+\newblock Ocean Optics, 2010.
+
+\bibitem{Pearse1976}
+R.~W.~B. Pearse and A.~G. Gaydon.
+
+\bibitem{PresTeukVettFlan92}
+W.~H. Press, S.~A. Teukolsky, W.~T. Vetterling, and B.~P. Flannery, {\em
+  Numerical Recipes in C}.
+\newblock Cambridge, USA: Cambridge University Press, second~ed., 1992.
+
+\bibitem{BSpline_scipy}
+SciPy, ``Univariate spline in the b-spline basis.,'' 2023.
+
+\bibitem{mks_ge50}
+MKS Instruments, {\em GE50A Elastomer Sealed, Digital Mass Flow Controller}, 10
+  2021.
+
+\bibitem{mks_623h}
+MKS Instruments, {\em 623H Unheated Absolute Baratron® Capacitance Manometer
+  with Trip Points}, 11 2021.
+
+\bibitem{mks_640b}
+MKS Instruments, {\em 640B/641B Electronic Pressure Controller}, 12 2021.
+
+\bibitem{Capello2007}
+C.~Capello, U.~Fischer, and K.~Hungerb\"{u}hler, ``What is a green solvent? a
+  comprehensive framework for the environmental assessment of solvents,'' {\em
+  Green Chemistry}, vol.~9, no.~9, p.~927, 2007.
+
+\bibitem{PerkinElmer2022}
+PerkinElmer, ``Gas chromatography explained: What it is and how it works,''
+  2022.
+
+\bibitem{Aryal2022}
+S.~Aryal, ``Mass spectrometry (ms)- principle, working, parts, steps, uses,''
+  2022.
+
+\bibitem{bocHeliumDS}
+BOC Ltd, {\em Helium CP Grade (N5.0)}, 2022.
+
+\bibitem{bocCO2DS}
+BOC Ltd, {\em Carbon Dioxide}, 2024.
 
 \bibitem{Kim2005}
 H.~C. Kim, F.~Iza, S.~S. Yang, M.~Radmilovi{\'{c}}-Radjenovi{\'{c}}, and J.~K.

@@ -8,6 +8,8 @@
 \usepackage{amsmath}
 \usepackage{caption}
 \usepackage{subcaption}
+\usepackage{textcomp}
+
 
 \input{blocked.sty}
 \input{uhead.sty}
@@ -97,6 +99,9 @@
 \newcommand{\forr}{\mbox{for}}
 \newcommand{\EE}{\mbox{E}}
 
+\DeclareRobustCommand{\rchi}{{\mathpalette\irchi\relax}}
+\newcommand{\irchi}[2]{\raisebox{\depth}{$#1\chi$}}
+
 \newcommand{\deff}{\stackrel{\mathrm{def}}{=}}
 \newcommand{\syncc}{~\stackrel{\textstyle \rhd\kern-0.57em\lhd}{\scriptstyle L}~}
 
@@ -137,5 +142,10 @@
  }
  \end{figure}
 }
+
+\setlength{\tabcolsep}{10pt} % Default value: 6pt
+\renewcommand{\arraystretch}{1.5} % Default value: 1
+
+
 
 \raggedbottom
