@@ -14,65 +14,65 @@
 \contentsline {subsubsection}{Inductively Coupled Plasma Designs}{17}% 
 \contentsline {subsubsection}{Dielectric Barrier Discharge Designs}{19}% 
 \contentsline {subsubsection}{Microwave Discharge Designs}{20}% 
-\contentsline {chapter}{\numberline {3}Carbon Dioxide Splitting}{23}% 
-\contentsline {section}{\numberline {3.1}Traditional Process}{23}% 
-\contentsline {section}{\numberline {3.2}Plasma-assisted CO$_2$ Splitting}{27}% 
-\contentsline {chapter}{\numberline {4}The Split Ring Resonator}{35}% 
-\contentsline {section}{\numberline {4.1}Overview}{36}% 
-\contentsline {section}{\numberline {4.2}Production}{38}% 
-\contentsline {subsection}{\numberline {4.2.1}Simulations}{38}% 
-\contentsline {subsection}{\numberline {4.2.2}Design}{45}% 
-\contentsline {section}{\numberline {4.3}Testing}{49}% 
-\contentsline {subsection}{\numberline {4.3.1}Scattering Parameters}{49}% 
-\contentsline {subsection}{\numberline {4.3.2}Experimental Setup}{50}% 
-\contentsline {subsection}{\numberline {4.3.3}Device Performance}{52}% 
-\contentsline {subsection}{\numberline {4.3.4}Pressure Drop across Orifice}{55}% 
-\contentsline {section}{\numberline {4.4}Flow of gases}{61}% 
-\contentsline {subsection}{\numberline {4.4.1}Helium only}{61}% 
-\contentsline {subsection}{\numberline {4.4.2}Helium with Carbon Dioxide}{63}% 
-\contentsline {subsubsection}{FTIR Analysis}{66}% 
-\contentsline {chapter}{\numberline {5}Gas recirculation}{75}% 
-\contentsline {section}{\numberline {5.1}Control System with Helium only}{75}% 
-\contentsline {subsection}{\numberline {5.1.1}Pressure in the SRR chamber}{79}% 
-\contentsline {subsection}{\numberline {5.1.2}Flow rate to the SRR}{90}% 
-\contentsline {subsection}{\numberline {5.1.3}Complete control system}{92}% 
-\contentsline {section}{\numberline {5.2}Control System with Helium and Carbon Dioxide}{94}% 
-\contentsline {subsection}{\numberline {5.2.1}Controlling carbon dioxide concentration}{96}% 
-\contentsline {subsection}{\numberline {5.2.2}Carbon monoxide concentrations}{107}% 
-\contentsline {section}{\numberline {5.3}Overall Control System performance}{109}% 
-\contentsline {chapter}{\numberline {6}Epoxidation Process}{113}% 
-\contentsline {section}{\numberline {6.1}Investigation the role of solvent}{113}% 
-\contentsline {section}{\numberline {6.2}Developing the plasma reactor}{121}% 
-\contentsline {subsection}{\numberline {6.2.1}Designing the main reactor housing}{121}% 
-\contentsline {subsection}{\numberline {6.2.2}Removing the acetonitrile vapours}{124}% 
-\contentsline {subsection}{\numberline {6.2.3}Complete setup design}{126}% 
-\contentsline {section}{\numberline {6.3}Characterising the plasma reactor}{129}% 
-\contentsline {subsection}{\numberline {6.3.1}Evaluating impact of flow rate and reaction distance}{131}% 
-\contentsline {subsection}{\numberline {6.3.2}Evaluating impact of CO$_2$ concentration}{136}% 
-\contentsline {subsection}{\numberline {6.3.3}Evaluating impact of temperature}{138}% 
-\contentsline {subsection}{\numberline {6.3.4}Evaluating the impact of inert gas used}{141}% 
-\contentsline {subsection}{\numberline {6.3.5}Comparison with the COST jet reactor}{144}% 
-\contentsline {section}{\numberline {6.4}Recirculating the feed gas for the reactor}{150}% 
-\contentsline {section}{\numberline {6.5}Cost analysis of recirculating the feed gas}{156}% 
-\contentsline {chapter}{\numberline {7}Conclusion}{159}% 
-\contentsline {chapter}{\numberline {A}Particle-in-Cell Simulations}{160}% 
-\contentsline {section}{\numberline {A.1}Particle Mover}{162}% 
-\contentsline {section}{\numberline {A.2}Charge and Current Deposition}{165}% 
-\contentsline {section}{\numberline {A.3}Field Solver}{166}% 
-\contentsline {section}{\numberline {A.4}Field Interpolation}{169}% 
-\contentsline {section}{\numberline {A.5}Monte-Carlo Collisions}{170}% 
-\contentsline {chapter}{\numberline {B}Simulation Software}{173}% 
-\contentsline {section}{\numberline {B.1}Overview}{173}% 
-\contentsline {subsection}{\numberline {B.1.1}Remote Server}{174}% 
-\contentsline {subsection}{\numberline {B.1.2}Input Files}{175}% 
-\contentsline {section}{\numberline {B.2}Improvements}{176}% 
-\contentsline {subsection}{\numberline {B.2.1}Motivation}{176}% 
-\contentsline {subsection}{\numberline {B.2.2}Methodology}{178}% 
-\contentsline {subsubsection}{General Solution}{178}% 
-\contentsline {subsubsection}{Cartesian Geometry}{182}% 
-\contentsline {subsubsection}{Cylindrical Geometry}{183}% 
-\contentsline {subsection}{\numberline {B.2.3}Validation}{183}% 
-\contentsline {subsubsection}{Test Case without Particles}{184}% 
-\contentsline {subsubsection}{Test Case with Particles}{186}% 
-\contentsline {subsection}{\numberline {B.2.4}Future Work}{189}% 
-\contentsline {chapter}{Bibliography}{190}% 
+\contentsline {chapter}{\numberline {3}Carbon Dioxide Decomposition}{24}% 
+\contentsline {section}{\numberline {3.1}Thermally Driven Process}{24}% 
+\contentsline {section}{\numberline {3.2}Plasma Driven Process}{29}% 
+\contentsline {chapter}{\numberline {4}The Split Ring Resonator}{40}% 
+\contentsline {section}{\numberline {4.1}Overview}{41}% 
+\contentsline {section}{\numberline {4.2}Production}{43}% 
+\contentsline {subsection}{\numberline {4.2.1}Simulations}{43}% 
+\contentsline {subsection}{\numberline {4.2.2}Design}{50}% 
+\contentsline {section}{\numberline {4.3}Testing}{54}% 
+\contentsline {subsection}{\numberline {4.3.1}Scattering Parameters}{54}% 
+\contentsline {subsection}{\numberline {4.3.2}Experimental Setup}{55}% 
+\contentsline {subsection}{\numberline {4.3.3}Device Performance}{57}% 
+\contentsline {subsection}{\numberline {4.3.4}Pressure Drop across Orifice}{60}% 
+\contentsline {section}{\numberline {4.4}Flow of gases}{66}% 
+\contentsline {subsection}{\numberline {4.4.1}Helium only}{66}% 
+\contentsline {subsection}{\numberline {4.4.2}Helium with Carbon Dioxide}{68}% 
+\contentsline {subsubsection}{FTIR Analysis}{71}% 
+\contentsline {chapter}{\numberline {5}Gas recirculation}{80}% 
+\contentsline {section}{\numberline {5.1}Control System with Helium only}{80}% 
+\contentsline {subsection}{\numberline {5.1.1}Pressure in the SRR chamber}{84}% 
+\contentsline {subsection}{\numberline {5.1.2}Flow rate to the SRR}{95}% 
+\contentsline {subsection}{\numberline {5.1.3}Complete control system}{97}% 
+\contentsline {section}{\numberline {5.2}Control System with Helium and Carbon Dioxide}{99}% 
+\contentsline {subsection}{\numberline {5.2.1}Controlling carbon dioxide concentration}{101}% 
+\contentsline {subsection}{\numberline {5.2.2}Carbon monoxide concentrations}{112}% 
+\contentsline {section}{\numberline {5.3}Overall Control System performance}{114}% 
+\contentsline {chapter}{\numberline {6}Epoxidation Process}{118}% 
+\contentsline {section}{\numberline {6.1}Investigation the role of solvent}{118}% 
+\contentsline {section}{\numberline {6.2}Developing the plasma reactor}{126}% 
+\contentsline {subsection}{\numberline {6.2.1}Designing the main reactor housing}{126}% 
+\contentsline {subsection}{\numberline {6.2.2}Removing the acetonitrile vapours}{129}% 
+\contentsline {subsection}{\numberline {6.2.3}Complete setup design}{131}% 
+\contentsline {section}{\numberline {6.3}Characterising the plasma reactor}{134}% 
+\contentsline {subsection}{\numberline {6.3.1}Evaluating impact of flow rate and reaction distance}{136}% 
+\contentsline {subsection}{\numberline {6.3.2}Evaluating impact of CO$_2$ concentration}{141}% 
+\contentsline {subsection}{\numberline {6.3.3}Evaluating impact of temperature}{143}% 
+\contentsline {subsection}{\numberline {6.3.4}Evaluating the impact of inert gas used}{146}% 
+\contentsline {subsection}{\numberline {6.3.5}Comparison with the COST jet reactor}{149}% 
+\contentsline {section}{\numberline {6.4}Recirculating the feed gas for the reactor}{155}% 
+\contentsline {section}{\numberline {6.5}Cost analysis of recirculating the feed gas}{161}% 
+\contentsline {chapter}{\numberline {7}Conclusion}{164}% 
+\contentsline {chapter}{\numberline {A}Particle-in-Cell Simulations}{165}% 
+\contentsline {section}{\numberline {A.1}Particle Mover}{167}% 
+\contentsline {section}{\numberline {A.2}Charge and Current Deposition}{170}% 
+\contentsline {section}{\numberline {A.3}Field Solver}{171}% 
+\contentsline {section}{\numberline {A.4}Field Interpolation}{174}% 
+\contentsline {section}{\numberline {A.5}Monte-Carlo Collisions}{175}% 
+\contentsline {chapter}{\numberline {B}Simulation Software}{178}% 
+\contentsline {section}{\numberline {B.1}Overview}{178}% 
+\contentsline {subsection}{\numberline {B.1.1}Remote Server}{179}% 
+\contentsline {subsection}{\numberline {B.1.2}Input Files}{180}% 
+\contentsline {section}{\numberline {B.2}Improvements}{181}% 
+\contentsline {subsection}{\numberline {B.2.1}Motivation}{181}% 
+\contentsline {subsection}{\numberline {B.2.2}Methodology}{183}% 
+\contentsline {subsubsection}{General Solution}{183}% 
+\contentsline {subsubsection}{Cartesian Geometry}{187}% 
+\contentsline {subsubsection}{Cylindrical Geometry}{188}% 
+\contentsline {subsection}{\numberline {B.2.3}Validation}{188}% 
+\contentsline {subsubsection}{Test Case without Particles}{189}% 
+\contentsline {subsubsection}{Test Case with Particles}{191}% 
+\contentsline {subsection}{\numberline {B.2.4}Future Work}{194}% 
+\contentsline {chapter}{Bibliography}{195}% 

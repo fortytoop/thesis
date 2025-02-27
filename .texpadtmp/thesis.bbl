@@ -242,11 +242,14 @@ J.~Pollak and M.~Moisan, ``Device and method for inactivation and/or
 V.~Karanassios, ``Miniaturized source devices for optical and mass
   spectrometry,'' E.U. Patent EP2109467A1, March 2005.
 
-\bibitem{jiang_xiao_kuznetsov_edwards_2010}
-Z.~Jiang, T.~Xiao, V.~L. Kuznetsov, and P.~P. Edwards, ``Turning carbon dioxide
-  into fuel,'' {\em Philosophical Transactions of the Royal Society A:
-  Mathematical, Physical and Engineering Sciences}, vol.~368, p.~3343–3364,
-  Jul 2010.
+\bibitem{Chase1998}
+J.~Chase, M.~W., {\em NIST-JANAF Thermochemical Tables, Fourth Edition},
+  vol.~Monograph 9.
+\newblock 1998.
+
+\bibitem{NIST_Chemistry_WebBook}
+P.~Linstrom and W.~Mallard, ``The nist chemistry webbook: A chemical data
+  resource on the internet,'' 2001-09-01 2001.
 
 \bibitem{Snoeckx2017}
 R.~Snoeckx and A.~Bogaerts, ``{Plasma technology-a novel solution for CO2
@@ -261,6 +264,12 @@ G.~Centi, S.~Perathoner, and G.~Papanikolaou, ``{Plasma assisted CO2 splitting
 K.~Shin, L.~Zhang, H.~An, H.~Ha, M.~Yoo, H.~M. Lee, G.~Henkelman, and H.~Y.
   Kim, ``{Interface engineering for a rational design of poison-free bimetallic
   CO oxidation catalysts},'' {\em Nanoscale}, vol.~9, pp.~5244--5253, apr 2017.
+
+\bibitem{jiang_xiao_kuznetsov_edwards_2010}
+Z.~Jiang, T.~Xiao, V.~L. Kuznetsov, and P.~P. Edwards, ``Turning carbon dioxide
+  into fuel,'' {\em Philosophical Transactions of the Royal Society A:
+  Mathematical, Physical and Engineering Sciences}, vol.~368, p.~3343–3364,
+  Jul 2010.
 
 \bibitem{pakhare_spivey_2014}
 D.~Pakhare and J.~Spivey, ``A review of dry (co2) reforming of methane over
@@ -381,6 +390,12 @@ J.~Golda, J.~Held, B.~Redeker, M.~Konkowski, P.~Beijer, A.~Sobota, G.~Kroesen,
 H.~Xu, M.~Shaban, S.~Wang, A.~Alkayal, D.~Liu, M.~G. Kong, F.~Plasser, B.~R.
   Buckley, and F.~Iza, ``{Oxygen harvesting from carbon dioxide: simultaneous
   epoxidation and CO formation},'' {\em Chemical Science}, 2021.
+
+\bibitem{VonDerGathen2008}
+V.~{Schulz-Von Der Gathen}, L.~Schaper, N.~Knake, S.~Reuter, K.~Niemi, T.~Gans,
+  and J.~Winter, ``{Spatially resolved diagnostics on a microscale atmospheric
+  pressure plasma jet},'' {\em Journal of Physics D: Applied Physics}, vol.~41,
+  p.~194004, sep 2008.
 
 \bibitem{Gorbanev2019}
 Y.~Gorbanev, J.~Golda, V.~S.-v. der Gathen, and A.~Bogaerts, ``{Applications of

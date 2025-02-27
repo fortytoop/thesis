@@ -16,65 +16,65 @@ You're missing a field name---line 63 of file ../bibliography/bibliography.bib
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Warning--entry type for "etogas" isn't style-file defined
---line 1141 of file ../bibliography/bibliography.bib
+--line 1161 of file ../bibliography/bibliography.bib
 Warning--entry type for "PerkinElmer2022" isn't style-file defined
---line 1421 of file ../bibliography/bibliography.bib
+--line 1441 of file ../bibliography/bibliography.bib
 Warning--entry type for "Aryal2022" isn't style-file defined
---line 1429 of file ../bibliography/bibliography.bib
+--line 1449 of file ../bibliography/bibliography.bib
 Warning--entry type for "Neutrium" isn't style-file defined
---line 1508 of file ../bibliography/bibliography.bib
+--line 1528 of file ../bibliography/bibliography.bib
 Warning--entry type for "BSpline_scipy" isn't style-file defined
---line 1541 of file ../bibliography/bibliography.bib
-Warning--I didn't find a database entry for "VonDerGathen2008"
+--line 1561 of file ../bibliography/bibliography.bib
 Warning--I didn't find a database entry for ""
 Warning--empty journal in Gudmundsson2017
 Warning--empty journal in Kolobov2015
 Warning--empty booktitle in Sakamoto2009ComparisonOP
+Warning--empty publisher in Chase1998
 Warning--empty booktitle in Bongers2015DevelopmentsIC
 Warning--empty booktitle in EdgarONTO
 Warning--empty year in EdgarONTO
 Warning--empty title in Pearse1976
 Warning--empty publisher in Pearse1976
 Warning--empty year in Pearse1976
-You've used 111 entries,
+You've used 114 entries,
             1876 wiz_defined-function locations,
-            1161 strings with 23283 characters,
-and the built_in function-call counts, 28680 in all, are:
-= -- 2785
-> -- 1287
+            1179 strings with 23833 characters,
+and the built_in function-call counts, 29320 in all, are:
+= -- 2842
+> -- 1322
 < -- 1
-+ -- 477
-- -- 366
-* -- 2016
-:= -- 3991
-add.period$ -- 121
-call.type$ -- 111
-change.case$ -- 95
++ -- 490
+- -- 376
+* -- 2058
+:= -- 4082
+add.period$ -- 125
+call.type$ -- 114
+change.case$ -- 97
 chr.to.int$ -- 0
-cite$ -- 120
-duplicate$ -- 1506
-empty$ -- 2532
-format.name$ -- 366
-if$ -- 7017
+cite$ -- 124
+duplicate$ -- 1538
+empty$ -- 2591
+format.name$ -- 376
+if$ -- 7174
 int.to.chr$ -- 0
-int.to.str$ -- 111
-missing$ -- 100
-newline$ -- 349
-num.names$ -- 107
-pop$ -- 366
+int.to.str$ -- 114
+missing$ -- 103
+newline$ -- 359
+num.names$ -- 110
+pop$ -- 381
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 1246
+skip$ -- 1273
 stack$ -- 0
-substring$ -- 1501
-swap$ -- 725
+substring$ -- 1513
+swap$ -- 739
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 9
-while$ -- 240
-width$ -- 114
-write$ -- 1019
+warning$ -- 10
+while$ -- 244
+width$ -- 117
+write$ -- 1045
 (There were 2 error messages)
